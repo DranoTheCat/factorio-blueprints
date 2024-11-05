@@ -15,6 +15,9 @@ jobs:
       run: |
         sudo apt-get install pigz -y
 
+    - name: checkout repo
+    - uses: actions/checkout@v4
+
     - name: convert files
       run: |
         ls -lR
