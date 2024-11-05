@@ -38,6 +38,7 @@ jobs:
         export IFS=$'\n'
         files_found=0
         files_modified=0
+        images_updated=0
         for dir in $(ls blueprints); do
           echo "Processing ${dir}..."
           if [ ! -d generated_json/${dir} ]; then
@@ -52,7 +53,8 @@ jobs:
               cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "generated_json/${dir}/${file}.json"
               if ! diff "generated_json/${dir}/${file}.json" "/tmp/${file}.json" >/dev/null; then
                 if python3 lib/render_image.py "$(cat ${ff})" "blueprints/${dir}/${file}.png" ; then
-                  files_modified=$((files_modified+2))
+                  files_modified=$((files_modified+1))
+                  images_updated=$((images_updated+1))
                   git add "generated_json/${dir}/${file}.json" "blueprints/${dir}/${file}.png"
                 else
                   git add "generated_json/${dir}/${file}.json"
@@ -62,7 +64,8 @@ jobs:
             else
               cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "generated_json/${dir}/${file}.json"
               if python3 lib/render_image.py "$(cat ${ff})" "blueprints/${dir}/${file}.png" ; then
-                files_modified=$((files_modified+2))
+                files_modified=$((files_modified+1))
+                images_updated=$((images_updated+1))
                 git add "generated_json/${dir}/${file}.json" "blueprints/${dir}/${file}.png"
               else
                 git add "generated_json/${dir}/${file}.json"
@@ -74,7 +77,7 @@ jobs:
         if [ ${files_modified} -gt 0 ]; then
           echo "Found ${files_found} and modified ${files_modified} blueprints."
           git status
-          git commit -m "generated ${files_modified} json files and images"
+          git commit -m "generated ${files_modified} json files and ${images_updated} images"
           git push
         fi
         IFS=${OIFS}
