@@ -57,7 +57,7 @@ jobs:
                 fi
               fi
             else
-              cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "json/${dir}/${file}.json"
+              cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "generated_json/${dir}/${file}.json"
               if python3 lib/render_image.py "$(cat ${ff})" "blueprints/${dir}/${file}.png" ; then
                 files_modified=$((files_modified+1))
                 git add "generated_json/${dir}/${file}.json" "blueprints/${dir}/${file}.png"
