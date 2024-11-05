@@ -17,6 +17,7 @@ jobs:
     - name: install dependencies
       run: |
         sudo apt-get install pigz -y
+        cd lib
         pip3 install -r requirements.txt
         playwright install
 
@@ -50,13 +51,13 @@ jobs:
               cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "json/${dir}/${file}.json"
               if ! diff "json/${dir}/${file}.json" "/tmp/${file}.json" >/dev/null; then
                 files_modified=$((files_modified+1))
-                python3 scripts/render_image.py "$(cat ${ff})" "blueprints/${dir}/${file}.png"
+                python3 lib/render_image.py "$(cat ${ff})" "blueprints/${dir}/${file}.png"
                 git add "json/${dir}/${file}.json" "blueprints/${dir}/${file}.png"
               fi
             else
               cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "json/${dir}/${file}.json"
               files_modified=$((files_modified+1))
-              python3 scripts/render_image.py "$(cat ${ff})" "blueprints/${dir}/${file}.png"
+              python3 lib/render_image.py "$(cat ${ff})" "blueprints/${dir}/${file}.png"
                 git add "json/${dir}/${file}.json" "blueprints/${dir}/${file}.png"
               git add "json/${dir}/${file}.json" "blueprints/${dir}/${file}.png"
             fi
