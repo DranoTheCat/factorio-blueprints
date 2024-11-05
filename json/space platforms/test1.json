@@ -1,1005 +1,2582 @@
 {
    "blueprint" : {
-      "description" : "My incredible optimized and not totally hobbled together ship",
       "entities" : [
          {
+            "direction" : 2,
             "entity_number" : 1,
-            "name" : "gun-turret",
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -16,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 2,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -15,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 3,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -14,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 4,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -13,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 5,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -12,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 6,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -11,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 7,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -10,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 8,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -9,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 9,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -8,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 10,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -7,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 11,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -6,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 12,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -5,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 13,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -4,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 14,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -3,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 15,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 16,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -1,
+               "y" : -10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 17,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -14,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 18,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -15,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 19,
+            "name" : "fast-splitter",
+            "position" : {
+               "x" : -12,
+               "y" : -8.5
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 20,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -13,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 21,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -11,
+               "y" : -8
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 22,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -10,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 23,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -11,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 24,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -8,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 25,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -9,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 26,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -6,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 27,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -7,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 28,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -4,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 29,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -5,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 30,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 31,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -3,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 32,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : -8
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 33,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -1,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 34,
+            "name" : "transport-belt",
             "position" : {
                "x" : 0,
                "y" : -9
             }
          },
          {
-            "control_behavior" : {
-               "circuit_set_filters" : true
-            },
-            "direction" : 12,
-            "entity_number" : 2,
-            "name" : "asteroid-collector",
+            "entity_number" : 35,
+            "name" : "fast-inserter",
             "position" : {
-               "x" : -2.5,
-               "y" : -6.5
-            },
-            "result-inventory" : null
-         },
-         {
-            "direction" : 8,
-            "entity_number" : 3,
-            "name" : "bulk-inserter",
-            "position" : {
-               "x" : -0.5,
-               "y" : -7.5
+               "x" : 1,
+               "y" : -8
             }
          },
          {
-            "control_behavior" : {
-               "circuit_set_filters" : true
-            },
-            "direction" : 4,
-            "entity_number" : 4,
-            "name" : "asteroid-collector",
+            "entity_number" : 36,
+            "name" : "fast-inserter",
             "position" : {
-               "x" : 2.5,
-               "y" : -6.5
-            },
-            "result-inventory" : null
-         },
-         {
-            "control_behavior" : {
-               "decider_conditions" : {
-                  "conditions" : [
-                     {
-                        "constant" : 100,
-                        "first_signal" : {
-                           "name" : "iron-ore"
-                        }
-                     }
-                  ],
-                  "outputs" : [
-                     {
-                        "copy_count_from_input" : false,
-                        "signal" : {
-                           "name" : "metallic-asteroid-chunk"
-                        }
-                     }
-                  ]
-               }
-            },
-            "direction" : 4,
-            "entity_number" : 5,
-            "name" : "decider-combinator",
-            "position" : {
-               "x" : -3,
-               "y" : -4.5
+               "x" : 2,
+               "y" : -8
             }
          },
          {
-            "direction" : 8,
-            "entity_number" : 6,
-            "name" : "bulk-inserter",
+            "direction" : 2,
+            "entity_number" : 37,
+            "name" : "transport-belt",
             "position" : {
-               "x" : -0.5,
-               "y" : -4.5
+               "x" : 2,
+               "y" : -9
             }
          },
          {
-            "entity_number" : 7,
-            "name" : "bulk-inserter",
+            "direction" : 2,
+            "entity_number" : 38,
+            "name" : "transport-belt",
             "position" : {
-               "x" : -1.5,
-               "y" : -4.5
+               "x" : 1,
+               "y" : -9
             }
          },
          {
-            "entity_number" : 8,
-            "name" : "gun-turret",
+            "direction" : 2,
+            "entity_number" : 39,
+            "name" : "transport-belt",
             "position" : {
-               "x" : 0,
+               "x" : 4,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 40,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : 3,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 41,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 6,
+               "y" : -8
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 42,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : 6,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 43,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : 5,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 44,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 8,
+               "y" : -8
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 45,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : 8,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 46,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : 7,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 47,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : 10,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 48,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : 9,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 49,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 12,
+               "y" : -8
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 50,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : 12,
+               "y" : -9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 51,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : 11,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 52,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 13,
+               "y" : -8
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 53,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : 13,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 54,
+            "name" : "assembling-machine-2",
+            "position" : {
+               "x" : -14,
+               "y" : -6
+            },
+            "recipe" : "iron-gear-wheel"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 55,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -12,
                "y" : -6
             }
          },
          {
-            "entity_number" : 9,
-            "name" : "bulk-inserter",
+            "direction" : 4,
+            "entity_number" : 56,
+            "name" : "fast-transport-belt",
             "position" : {
-               "x" : 1.5,
-               "y" : -4.5
+               "x" : -11,
+               "y" : -6
             }
          },
          {
-            "control_behavior" : {
-               "decider_conditions" : {
-                  "conditions" : [
+            "direction" : 4,
+            "entity_number" : 57,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -11,
+               "y" : -7
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 58,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -10,
+               "y" : -6
+            }
+         },
+         {
+            "entity_number" : 59,
+            "name" : "assembling-machine-2",
+            "position" : {
+               "x" : -8,
+               "y" : -6
+            },
+            "recipe" : "iron-gear-wheel"
+         },
+         {
+            "entity_number" : 60,
+            "name" : "assembling-machine-2",
+            "position" : {
+               "x" : -5,
+               "y" : -6
+            },
+            "recipe" : "iron-gear-wheel"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 61,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -3,
+               "y" : -6
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 62,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : -6
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 63,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : -7
+            }
+         },
+         {
+            "entity_number" : 64,
+            "name" : "assembling-machine-2",
+            "position" : {
+               "x" : 1,
+               "y" : -6
+            },
+            "recipe" : "splitter"
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 65,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -1,
+               "y" : -6
+            }
+         },
+         {
+            "entity_number" : 66,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 4,
+               "y" : -6
+            }
+         },
+         {
+            "connections" : {
+               "1" : {
+                  "red" : [
                      {
-                        "constant" : 100,
-                        "first_signal" : {
-                           "name" : "ice"
-                        }
-                     }
-                  ],
-                  "outputs" : [
-                     {
-                        "copy_count_from_input" : false,
-                        "signal" : {
-                           "name" : "oxide-asteroid-chunk"
-                        }
+                        "entity_id" : 68
                      }
                   ]
                }
             },
-            "direction" : 4,
-            "entity_number" : 10,
-            "name" : "decider-combinator",
+            "entity_number" : 67,
+            "name" : "logistic-chest-requester",
+            "position" : {
+               "x" : 4,
+               "y" : -7
+            },
+            "request_filters" : [
+               {
+                  "count" : 500,
+                  "index" : 1,
+                  "name" : "splitter"
+               }
+            ]
+         },
+         {
+            "connections" : {
+               "1" : {
+                  "red" : [
+                     {
+                        "entity_id" : 67
+                     }
+                  ]
+               }
+            },
+            "control_behavior" : {
+               "circuit_condition" : {
+                  "comparator" : "<",
+                  "constant" : 50,
+                  "first_signal" : {
+                     "name" : "splitter",
+                     "type" : "item"
+                  }
+               }
+            },
+            "direction" : 6,
+            "entity_number" : 68,
+            "name" : "inserter",
             "position" : {
                "x" : 3,
-               "y" : -4.5
+               "y" : -7
             }
          },
          {
-            "entity_number" : 11,
-            "name" : "gun-turret",
+            "direction" : 6,
+            "entity_number" : 69,
+            "name" : "inserter",
             "position" : {
-               "x" : -9,
+               "x" : 5,
+               "y" : -7
+            }
+         },
+         {
+            "entity_number" : 70,
+            "name" : "assembling-machine-2",
+            "position" : {
+               "x" : 7,
+               "y" : -6
+            },
+            "recipe" : "fast-splitter"
+         },
+         {
+            "entity_number" : 71,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 10,
+               "y" : -6
+            }
+         },
+         {
+            "connections" : {
+               "1" : {
+                  "red" : [
+                     {
+                        "entity_id" : 73
+                     }
+                  ]
+               }
+            },
+            "entity_number" : 72,
+            "name" : "logistic-chest-requester",
+            "position" : {
+               "x" : 10,
+               "y" : -7
+            },
+            "request_filters" : [
+               {
+                  "count" : 500,
+                  "index" : 1,
+                  "name" : "fast-splitter"
+               }
+            ]
+         },
+         {
+            "connections" : {
+               "1" : {
+                  "red" : [
+                     {
+                        "entity_id" : 72
+                     }
+                  ]
+               }
+            },
+            "control_behavior" : {
+               "circuit_condition" : {
+                  "comparator" : "<",
+                  "constant" : 50,
+                  "first_signal" : {
+                     "name" : "fast-splitter",
+                     "type" : "item"
+                  }
+               }
+            },
+            "direction" : 6,
+            "entity_number" : 73,
+            "name" : "inserter",
+            "position" : {
+               "x" : 9,
+               "y" : -7
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 74,
+            "name" : "inserter",
+            "position" : {
+               "x" : 11,
+               "y" : -7
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 75,
+            "name" : "assembling-machine-2",
+            "position" : {
+               "x" : 13,
+               "y" : -6
+            },
+            "recipe" : "express-splitter"
+         },
+         {
+            "entity_number" : 76,
+            "name" : "pipe",
+            "position" : {
+               "x" : 15,
+               "y" : -6
+            }
+         },
+         {
+            "entity_number" : 77,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -14,
+               "y" : -4
+            }
+         },
+         {
+            "entity_number" : 78,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -13,
+               "y" : -4
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 79,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -12,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 80,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -12,
                "y" : -4
             }
          },
          {
             "direction" : 4,
-            "entity_number" : 12,
-            "name" : "bulk-inserter",
-            "position" : {
-               "x" : -7.5,
-               "y" : -3.5
-            }
-         },
-         {
-            "direction" : 8,
-            "entity_number" : 13,
+            "entity_number" : 81,
             "name" : "fast-transport-belt",
             "position" : {
-               "x" : -5.5,
-               "y" : -2.5
+               "x" : -11,
+               "y" : -4
             }
          },
          {
             "direction" : 4,
-            "entity_number" : 14,
-            "filters" : [
-               {
-                  "comparator" : "=",
-                  "index" : 1,
-                  "name" : "iron-ore",
-                  "quality" : "normal"
-               }
-            ],
-            "name" : "bulk-inserter",
+            "entity_number" : 82,
+            "name" : "fast-transport-belt",
             "position" : {
-               "x" : -4.5,
-               "y" : -2.5
-            },
-            "use_filters" : true
-         },
-         {
-            "direction" : 4,
-            "entity_number" : 15,
-            "name" : "bulk-inserter",
-            "position" : {
-               "x" : -4.5,
-               "y" : -3.5
+               "x" : -11,
+               "y" : -5
             }
          },
          {
-            "entity_number" : 16,
-            "name" : "gun-turret",
+            "direction" : 6,
+            "entity_number" : 83,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -10,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 84,
+            "name" : "fast-inserter",
             "position" : {
                "x" : -6,
                "y" : -4
             }
          },
          {
-            "control_behavior" : {
-               "circuit_condition" : {
-                  "comparator" : "<",
-                  "constant" : 400,
-                  "first_signal" : {
-                     "name" : "iron-ore"
-                  }
-               },
-               "circuit_enabled" : true
-            },
-            "direction" : 12,
-            "entity_number" : 17,
-            "name" : "bulk-inserter",
+            "entity_number" : 85,
+            "name" : "fast-inserter",
             "position" : {
-               "x" : 4.5,
-               "y" : -2.5
+               "x" : -7,
+               "y" : -4
             }
          },
          {
-            "direction" : 12,
-            "entity_number" : 18,
-            "name" : "bulk-inserter",
+            "direction" : 2,
+            "entity_number" : 86,
+            "name" : "fast-inserter",
             "position" : {
-               "x" : 4.5,
-               "y" : -3.5
+               "x" : -3,
+               "y" : -5
             }
          },
          {
-            "direction" : 12,
-            "entity_number" : 19,
-            "name" : "bulk-inserter",
+            "direction" : 4,
+            "entity_number" : 87,
+            "name" : "transport-belt",
             "position" : {
-               "x" : 7.5,
-               "y" : -3.5
+               "x" : -2,
+               "y" : -4
             }
          },
          {
-            "entity_number" : 20,
-            "name" : "gun-turret",
+            "direction" : 4,
+            "entity_number" : 88,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : -5
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 89,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 0,
+               "y" : -4
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 90,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -1,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 91,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -1,
+               "y" : -4
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 92,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 2,
+               "y" : -4
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 93,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 1,
+               "y" : -4
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 94,
+            "name" : "inserter",
             "position" : {
                "x" : 6,
                "y" : -4
             }
          },
          {
-            "entity_number" : 21,
-            "name" : "gun-turret",
+            "direction" : 4,
+            "entity_number" : 95,
+            "name" : "inserter",
             "position" : {
-               "x" : 9,
+               "x" : 8,
                "y" : -4
             }
          },
          {
-            "direction" : 8,
-            "entity_number" : 22,
-            "name" : "fast-transport-belt",
+            "bar" : 10,
+            "entity_number" : 96,
+            "name" : "logistic-chest-passive-provider",
             "position" : {
-               "x" : -10.5,
-               "y" : -0.5
+               "x" : 10,
+               "y" : -5
             }
          },
          {
             "direction" : 4,
-            "entity_number" : 23,
-            "name" : "bulk-inserter",
+            "entity_number" : 97,
+            "name" : "fast-inserter",
             "position" : {
-               "x" : -9.5,
-               "y" : -0.5
+               "x" : 12,
+               "y" : -4
             }
          },
          {
-            "entity_number" : 24,
-            "items" : [
-               {
-                  "id" : {
-                     "name" : "speed-module-2"
-                  },
-                  "items" : {
-                     "in_inventory" : [
-                        {
-                           "inventory" : 4,
-                           "stack" : 0
-                        },
-                        {
-                           "inventory" : 4,
-                           "stack" : 1
-                        }
-                     ]
-                  }
-               }
-            ],
-            "name" : "electric-furnace",
+            "direction" : 2,
+            "entity_number" : 98,
+            "name" : "inserter",
             "position" : {
-               "x" : -7.5,
-               "y" : -1.5
+               "x" : 11,
+               "y" : -5
             }
          },
          {
             "direction" : 4,
-            "entity_number" : 25,
-            "name" : "bulk-inserter",
+            "entity_number" : 99,
+            "name" : "fast-inserter",
             "position" : {
-               "x" : -5.5,
-               "y" : -0.5
+               "x" : 13,
+               "y" : -4
             }
          },
          {
-            "direction" : 8,
-            "entity_number" : 26,
-            "name" : "fast-transport-belt",
+            "entity_number" : 100,
+            "name" : "pipe-to-ground",
             "position" : {
-               "x" : -4.5,
-               "y" : -0.5
-            }
-         },
-         {
-            "direction" : 8,
-            "entity_number" : 27,
-            "name" : "fast-transport-belt",
-            "position" : {
-               "x" : -4.5,
-               "y" : -1.5
+               "x" : 15,
+               "y" : -5
             }
          },
          {
             "direction" : 4,
-            "entity_number" : 28,
-            "name" : "fast-transport-belt",
+            "entity_number" : 101,
+            "name" : "fast-inserter",
             "position" : {
-               "x" : -5.5,
-               "y" : -1.5
-            }
-         },
-         {
-            "control_behavior" : {
-               "circuit_condition" : {
-                  "comparator" : "<",
-                  "constant" : 400,
-                  "first_signal" : {
-                     "name" : "carbon"
-                  }
-               },
-               "circuit_enabled" : true
-            },
-            "direction" : 12,
-            "entity_number" : 29,
-            "name" : "bulk-inserter",
-            "position" : {
-               "x" : 4.5,
-               "y" : -0.5
-            }
-         },
-         {
-            "direction" : 4,
-            "entity_number" : 30,
-            "name" : "bulk-inserter",
-            "position" : {
-               "x" : 4.5,
-               "y" : -1.5
-            }
-         },
-         {
-            "direction" : 12,
-            "entity_number" : 31,
-            "name" : "crusher",
-            "position" : {
-               "x" : 6.5,
+               "x" : -14,
                "y" : -2
-            },
-            "recipe" : "metallic-asteroid-crushing",
-            "recipe_quality" : "normal"
-         },
-         {
-            "entity_number" : 32,
-            "name" : "solar-panel",
-            "position" : {
-               "x" : 9.5,
-               "y" : -1.5
             }
          },
          {
-            "direction" : 8,
-            "entity_number" : 33,
-            "name" : "fast-underground-belt",
+            "direction" : 2,
+            "entity_number" : 102,
+            "name" : "transport-belt",
             "position" : {
-               "x" : -10.5,
-               "y" : 1.5
-            },
-            "type" : "input"
-         },
-         {
-            "direction" : 8,
-            "entity_number" : 34,
-            "name" : "fast-transport-belt",
-            "position" : {
-               "x" : -10.5,
-               "y" : 0.5
+               "x" : -14,
+               "y" : -3
             }
          },
          {
             "direction" : 4,
-            "entity_number" : 35,
-            "name" : "bulk-inserter",
+            "entity_number" : 103,
+            "name" : "fast-inserter",
             "position" : {
-               "x" : -9.5,
-               "y" : 0.5
+               "x" : -13,
+               "y" : -2
             }
          },
          {
-            "entity_number" : 36,
-            "items" : [
-               {
-                  "id" : {
-                     "name" : "speed-module-2"
-                  },
-                  "items" : {
-                     "in_inventory" : [
-                        {
-                           "inventory" : 4,
-                           "stack" : 0
-                        },
-                        {
-                           "inventory" : 4,
-                           "stack" : 1
-                        }
-                     ]
-                  }
-               }
-            ],
-            "name" : "electric-furnace",
+            "direction" : 2,
+            "entity_number" : 104,
+            "name" : "underground-belt",
             "position" : {
-               "x" : -7.5,
-               "y" : 1.5
-            }
-         },
-         {
-            "direction" : 8,
-            "entity_number" : 37,
-            "name" : "fast-underground-belt",
-            "position" : {
-               "x" : -4.5,
-               "y" : 1.5
+               "x" : -13,
+               "y" : -3
             },
             "type" : "input"
          },
          {
             "direction" : 4,
-            "entity_number" : 38,
-            "name" : "bulk-inserter",
-            "position" : {
-               "x" : -5.5,
-               "y" : 0.5
-            }
-         },
-         {
-            "direction" : 8,
-            "entity_number" : 39,
+            "entity_number" : 105,
             "name" : "fast-transport-belt",
             "position" : {
-               "x" : -4.5,
-               "y" : 0.5
+               "x" : -11,
+               "y" : -2
             }
          },
          {
-            "entity_number" : 40,
-            "name" : "space-platform-hub",
+            "direction" : 4,
+            "entity_number" : 106,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -11,
+               "y" : -3
+            }
+         },
+         {
+            "entity_number" : 107,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -10,
+               "y" : -3
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 108,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -8,
+               "y" : -3
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 109,
+            "name" : "underground-belt",
+            "position" : {
+               "x" : -9,
+               "y" : -3
+            },
+            "type" : "output"
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 110,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -6,
+               "y" : -2
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 111,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -7,
+               "y" : -2
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 112,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -6,
+               "y" : -3
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 113,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -7,
+               "y" : -3
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 114,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -5,
+               "y" : -3
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 115,
+            "name" : "underground-belt",
+            "position" : {
+               "x" : -4,
+               "y" : -3
+            },
+            "type" : "input"
+         },
+         {
+            "entity_number" : 116,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -3,
+               "y" : -3
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 117,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : -2
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 118,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : -3
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 119,
+            "name" : "fast-inserter",
             "position" : {
                "x" : 0,
-               "y" : 0
-            },
-            "request_filters" : {
-               "request_from_buffers" : true,
-               "sections" : [
-                  {
-                     "index" : 1
-                  },
-                  {
-                     "active" : false,
-                     "filters" : [
-                        {
-                           "comparator" : "=",
-                           "count" : 6,
-                           "index" : 4,
-                           "name" : "speed-module-2",
-                           "quality" : "normal"
-                        }
-                     ],
-                     "index" : 2
-                  }
-               ]
-            },
-            "request_missing_construction_materials" : true
-         },
-         {
-            "control_behavior" : {
-               "circuit_condition" : {
-                  "comparator" : "<",
-                  "constant" : 400,
-                  "first_signal" : {
-                     "name" : "ice"
-                  }
-               },
-               "circuit_enabled" : true
-            },
-            "direction" : 12,
-            "entity_number" : 41,
-            "name" : "bulk-inserter",
-            "position" : {
-               "x" : 4.5,
-               "y" : 1.5
+               "y" : -2
             }
          },
          {
-            "direction" : 4,
-            "entity_number" : 42,
-            "name" : "bulk-inserter",
+            "bar" : 1,
+            "entity_number" : 120,
+            "name" : "wooden-chest",
             "position" : {
-               "x" : 4.5,
-               "y" : 0.5
+               "x" : 0,
+               "y" : -3
             }
          },
          {
-            "direction" : 12,
-            "entity_number" : 43,
-            "name" : "crusher",
+            "direction" : 2,
+            "entity_number" : 121,
+            "name" : "underground-belt",
             "position" : {
-               "x" : 6.5,
-               "y" : 0
-            },
-            "recipe" : "carbonic-asteroid-crushing",
-            "recipe_quality" : "normal"
-         },
-         {
-            "entity_number" : 44,
-            "name" : "solar-panel",
-            "position" : {
-               "x" : 9.5,
-               "y" : 1.5
-            }
-         },
-         {
-            "direction" : 4,
-            "entity_number" : 45,
-            "name" : "fast-transport-belt",
-            "position" : {
-               "x" : -10.5,
-               "y" : 2.5
-            }
-         },
-         {
-            "entity_number" : 46,
-            "name" : "fast-transport-belt",
-            "position" : {
-               "x" : -10.5,
-               "y" : 3.5
-            }
-         },
-         {
-            "direction" : 4,
-            "entity_number" : 47,
-            "name" : "fast-underground-belt",
-            "position" : {
-               "x" : -9.5,
-               "y" : 2.5
+               "x" : 2,
+               "y" : -3
             },
             "type" : "input"
          },
          {
-            "direction" : 12,
-            "entity_number" : 48,
+            "entity_number" : 122,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 2,
+               "y" : -2
+            }
+         },
+         {
+            "entity_number" : 123,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 1,
+               "y" : -2
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 124,
+            "name" : "underground-belt",
+            "position" : {
+               "x" : 1,
+               "y" : -3
+            },
+            "type" : "output"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 125,
+            "name" : "underground-belt",
+            "position" : {
+               "x" : 6,
+               "y" : -3
+            },
+            "type" : "output"
+         },
+         {
+            "entity_number" : 126,
+            "name" : "inserter",
+            "position" : {
+               "x" : 6,
+               "y" : -2
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 127,
+            "name" : "underground-belt",
+            "position" : {
+               "x" : 8,
+               "y" : -3
+            },
+            "type" : "input"
+         },
+         {
+            "entity_number" : 128,
+            "name" : "inserter",
+            "position" : {
+               "x" : 8,
+               "y" : -2
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 129,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : 7,
+               "y" : -3
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 130,
+            "name" : "underground-belt",
+            "position" : {
+               "x" : 12,
+               "y" : -3
+            },
+            "type" : "output"
+         },
+         {
+            "entity_number" : 131,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 12,
+               "y" : -2
+            }
+         },
+         {
+            "entity_number" : 132,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 13,
+               "y" : -2
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 133,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : 13,
+               "y" : -3
+            }
+         },
+         {
+            "entity_number" : 134,
+            "name" : "assembling-machine-2",
+            "position" : {
+               "x" : -14,
+               "y" : 0
+            },
+            "recipe" : "iron-gear-wheel"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 135,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -12,
+               "y" : -1
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 136,
             "name" : "fast-transport-belt",
             "position" : {
-               "x" : -9.5,
-               "y" : 3.5
+               "x" : -11,
+               "y" : -1
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 137,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -10,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 138,
+            "name" : "assembling-machine-2",
+            "position" : {
+               "x" : -8,
+               "y" : 0
+            },
+            "recipe" : "iron-gear-wheel"
+         },
+         {
+            "entity_number" : 139,
+            "name" : "assembling-machine-2",
+            "position" : {
+               "x" : -5,
+               "y" : 0
+            },
+            "recipe" : "iron-gear-wheel"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 140,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -3,
+               "y" : -1
             }
          },
          {
             "direction" : 4,
-            "entity_number" : 49,
-            "name" : "fast-underground-belt",
+            "entity_number" : 141,
+            "name" : "transport-belt",
             "position" : {
-               "x" : -5.5,
-               "y" : 2.5
+               "x" : -2,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 142,
+            "name" : "assembling-machine-1",
+            "position" : {
+               "x" : 1,
+               "y" : 0
             },
-            "type" : "output"
+            "recipe" : "transport-belt"
          },
          {
-            "direction" : 12,
-            "entity_number" : 50,
-            "name" : "bulk-inserter",
+            "direction" : 6,
+            "entity_number" : 143,
+            "name" : "fast-inserter",
             "position" : {
-               "x" : -4.5,
-               "y" : 2.5
+               "x" : -1,
+               "y" : -1
             }
          },
          {
-            "direction" : 8,
-            "entity_number" : 51,
-            "name" : "fast-underground-belt",
+            "entity_number" : 144,
+            "name" : "medium-electric-pole",
             "position" : {
-               "x" : -4.5,
-               "y" : 3.5
-            },
-            "type" : "output"
-         },
-         {
-            "direction" : 4,
-            "entity_number" : 52,
-            "name" : "bulk-inserter",
-            "position" : {
-               "x" : -5.5,
-               "y" : 3.5
+               "x" : 4,
+               "y" : 0
             }
          },
          {
-            "direction" : 4,
-            "entity_number" : 53,
-            "name" : "bulk-inserter",
-            "position" : {
-               "x" : 4.5,
-               "y" : 2.5
-            }
-         },
-         {
-            "direction" : 12,
-            "entity_number" : 54,
-            "name" : "crusher",
-            "position" : {
-               "x" : 6.5,
-               "y" : 2
-            },
-            "recipe" : "oxide-asteroid-crushing",
-            "recipe_quality" : "normal"
-         },
-         {
-            "entity_number" : 55,
-            "name" : "solar-panel",
-            "position" : {
-               "x" : -12.5,
-               "y" : 5.5
-            }
-         },
-         {
-            "direction" : 8,
-            "entity_number" : 56,
-            "name" : "fast-underground-belt",
-            "position" : {
-               "x" : -10.5,
-               "y" : 4.5
-            },
-            "type" : "output"
-         },
-         {
-            "direction" : 8,
-            "entity_number" : 57,
-            "name" : "fast-transport-belt",
-            "position" : {
-               "x" : -10.5,
-               "y" : 5.5
-            }
-         },
-         {
-            "entity_number" : 58,
-            "name" : "fast-underground-belt",
-            "position" : {
-               "x" : -9.5,
-               "y" : 4.5
-            },
-            "type" : "output"
-         },
-         {
-            "direction" : 4,
-            "entity_number" : 59,
-            "name" : "bulk-inserter",
-            "position" : {
-               "x" : -9.5,
-               "y" : 5.5
-            }
-         },
-         {
-            "entity_number" : 60,
-            "items" : [
-               {
-                  "id" : {
-                     "name" : "speed-module-2"
-                  },
-                  "items" : {
-                     "in_inventory" : [
-                        {
-                           "inventory" : 4,
-                           "stack" : 0
-                        }
-                     ]
-                  }
-               }
-            ],
-            "name" : "electric-furnace",
-            "position" : {
-               "x" : -7.5,
-               "y" : 4.5
-            }
-         },
-         {
-            "entity_number" : 61,
-            "name" : "pipe",
-            "position" : {
-               "x" : -3.5,
-               "y" : 4.5
-            }
-         },
-         {
-            "direction" : 12,
-            "entity_number" : 62,
-            "name" : "pipe-to-ground",
-            "position" : {
-               "x" : -2.5,
-               "y" : 4.5
-            }
-         },
-         {
-            "entity_number" : 63,
-            "name" : "bulk-inserter",
-            "position" : {
-               "x" : -0.5,
-               "y" : 4.5
-            }
-         },
-         {
-            "entity_number" : 64,
-            "name" : "bulk-inserter",
-            "position" : {
-               "x" : -1.5,
-               "y" : 4.5
-            }
-         },
-         {
-            "direction" : 4,
-            "entity_number" : 65,
-            "name" : "pipe-to-ground",
-            "position" : {
-               "x" : 0.5,
-               "y" : 4.5
-            }
-         },
-         {
-            "entity_number" : 66,
-            "name" : "pipe",
-            "position" : {
-               "x" : 1.5,
-               "y" : 4.5
-            }
-         },
-         {
-            "entity_number" : 67,
-            "name" : "pipe",
-            "position" : {
-               "x" : 2.5,
-               "y" : 4.5
-            }
-         },
-         {
-            "entity_number" : 68,
-            "name" : "bulk-inserter",
-            "position" : {
-               "x" : 3.5,
-               "y" : 4.5
-            }
-         },
-         {
-            "control_behavior" : {
-               "decider_conditions" : {
-                  "conditions" : [
+            "connections" : {
+               "1" : {
+                  "red" : [
                      {
-                        "constant" : 100,
-                        "first_signal" : {
-                           "name" : "carbon"
-                        }
-                     }
-                  ],
-                  "outputs" : [
-                     {
-                        "copy_count_from_input" : false,
-                        "signal" : {
-                           "name" : "carbonic-asteroid-chunk"
-                        }
+                        "entity_id" : 146
                      }
                   ]
                }
             },
-            "entity_number" : 69,
-            "name" : "decider-combinator",
+            "entity_number" : 145,
+            "name" : "logistic-chest-requester",
             "position" : {
-               "x" : 4.5,
+               "x" : 4,
+               "y" : -1
+            },
+            "request_filters" : [
+               {
+                  "count" : 500,
+                  "index" : 1,
+                  "name" : "transport-belt"
+               }
+            ]
+         },
+         {
+            "connections" : {
+               "1" : {
+                  "red" : [
+                     {
+                        "entity_id" : 145
+                     }
+                  ]
+               }
+            },
+            "control_behavior" : {
+               "circuit_condition" : {
+                  "comparator" : "<",
+                  "constant" : 50,
+                  "first_signal" : {
+                     "name" : "transport-belt",
+                     "type" : "item"
+                  }
+               }
+            },
+            "direction" : 6,
+            "entity_number" : 146,
+            "name" : "inserter",
+            "position" : {
+               "x" : 3,
+               "y" : -1
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 147,
+            "name" : "inserter",
+            "position" : {
+               "x" : 5,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 148,
+            "name" : "assembling-machine-1",
+            "position" : {
+               "x" : 7,
+               "y" : 0
+            },
+            "recipe" : "fast-transport-belt"
+         },
+         {
+            "entity_number" : 149,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 10,
+               "y" : 0
+            }
+         },
+         {
+            "connections" : {
+               "1" : {
+                  "red" : [
+                     {
+                        "entity_id" : 151
+                     }
+                  ]
+               }
+            },
+            "entity_number" : 150,
+            "name" : "logistic-chest-requester",
+            "position" : {
+               "x" : 10,
+               "y" : -1
+            },
+            "request_filters" : [
+               {
+                  "count" : 500,
+                  "index" : 1,
+                  "name" : "fast-transport-belt"
+               }
+            ]
+         },
+         {
+            "connections" : {
+               "1" : {
+                  "red" : [
+                     {
+                        "entity_id" : 150
+                     }
+                  ]
+               }
+            },
+            "control_behavior" : {
+               "circuit_condition" : {
+                  "comparator" : "<",
+                  "constant" : 50,
+                  "first_signal" : {
+                     "name" : "fast-transport-belt",
+                     "type" : "item"
+                  }
+               }
+            },
+            "direction" : 6,
+            "entity_number" : 151,
+            "name" : "inserter",
+            "position" : {
+               "x" : 9,
+               "y" : -1
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 152,
+            "name" : "inserter",
+            "position" : {
+               "x" : 11,
+               "y" : -1
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 153,
+            "name" : "assembling-machine-2",
+            "position" : {
+               "x" : 13,
+               "y" : 0
+            },
+            "recipe" : "express-transport-belt"
+         },
+         {
+            "entity_number" : 154,
+            "name" : "pipe",
+            "position" : {
+               "x" : 15,
+               "y" : 0
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 155,
+            "name" : "pipe-to-ground",
+            "position" : {
+               "x" : 15,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 156,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -14,
+               "y" : 2
+            }
+         },
+         {
+            "entity_number" : 157,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -13,
+               "y" : 2
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 158,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -12,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 159,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -11,
+               "y" : 2
+            }
+         },
+         {
+            "entity_number" : 160,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -11,
+               "y" : 1
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 161,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -10,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 162,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -7,
+               "y" : 2
+            }
+         },
+         {
+            "entity_number" : 163,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -6,
+               "y" : 2
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 164,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -3,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 165,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : 2
+            }
+         },
+         {
+            "entity_number" : 166,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 167,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 0,
+               "y" : 2
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 168,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -1,
+               "y" : 1
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 169,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 2,
+               "y" : 2
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 170,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 1,
+               "y" : 2
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 171,
+            "name" : "inserter",
+            "position" : {
+               "x" : 6,
+               "y" : 2
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 172,
+            "name" : "inserter",
+            "position" : {
+               "x" : 8,
+               "y" : 2
+            }
+         },
+         {
+            "bar" : 20,
+            "entity_number" : 173,
+            "name" : "logistic-chest-passive-provider",
+            "position" : {
+               "x" : 10,
+               "y" : 1
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 174,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 12,
+               "y" : 2
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 175,
+            "name" : "inserter",
+            "position" : {
+               "x" : 11,
+               "y" : 1
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 176,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 13,
+               "y" : 2
+            }
+         },
+         {
+            "entity_number" : 177,
+            "name" : "pipe-to-ground",
+            "position" : {
+               "x" : 15,
+               "y" : 1
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 178,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -14,
                "y" : 4
             }
          },
          {
-            "entity_number" : 70,
-            "name" : "solar-panel",
+            "direction" : 2,
+            "entity_number" : 179,
+            "name" : "transport-belt",
             "position" : {
-               "x" : 6.5,
-               "y" : 4.5
-            }
-         },
-         {
-            "entity_number" : 71,
-            "name" : "solar-panel",
-            "position" : {
-               "x" : 9.5,
-               "y" : 4.5
+               "x" : -14,
+               "y" : 3
             }
          },
          {
             "direction" : 4,
-            "entity_number" : 72,
-            "name" : "fast-transport-belt",
+            "entity_number" : 180,
+            "name" : "fast-inserter",
             "position" : {
-               "x" : -10.5,
-               "y" : 6.5
+               "x" : -13,
+               "y" : 4
             }
          },
          {
-            "entity_number" : 73,
-            "name" : "fast-underground-belt",
+            "entity_number" : 181,
+            "name" : "medium-electric-pole",
             "position" : {
-               "x" : -9.5,
-               "y" : 7.5
+               "x" : -12,
+               "y" : 4
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 182,
+            "name" : "underground-belt",
+            "position" : {
+               "x" : -13,
+               "y" : 3
             },
             "type" : "input"
          },
          {
+            "entity_number" : 183,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -11,
+               "y" : 4
+            }
+         },
+         {
+            "entity_number" : 184,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -11,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 185,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -10,
+               "y" : 3
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 186,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -8,
+               "y" : 3
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 187,
+            "name" : "underground-belt",
+            "position" : {
+               "x" : -9,
+               "y" : 3
+            },
+            "type" : "output"
+         },
+         {
             "direction" : 4,
-            "entity_number" : 74,
-            "name" : "fast-transport-belt",
+            "entity_number" : 188,
+            "name" : "fast-inserter",
             "position" : {
-               "x" : -9.5,
-               "y" : 6.5
-            }
-         },
-         {
-            "direction" : 4,
-            "entity_number" : 75,
-            "name" : "fast-transport-belt",
-            "position" : {
-               "x" : -8.5,
-               "y" : 6.5
-            }
-         },
-         {
-            "direction" : 12,
-            "entity_number" : 76,
-            "name" : "bulk-inserter",
-            "position" : {
-               "x" : -7.5,
-               "y" : 6.5
-            }
-         },
-         {
-            "entity_number" : 77,
-            "name" : "assembling-machine-2",
-            "position" : {
-               "x" : -5.5,
-               "y" : 7.5
-            },
-            "recipe" : "firearm-magazine",
-            "recipe_quality" : "normal"
-         },
-         {
-            "entity_number" : 78,
-            "name" : "chemical-plant",
-            "position" : {
-               "x" : -2.5,
-               "y" : 6.5
-            },
-            "recipe" : "thruster-fuel",
-            "recipe_quality" : "normal"
-         },
-         {
-            "entity_number" : 79,
-            "name" : "chemical-plant",
-            "position" : {
-               "x" : 0.5,
-               "y" : 6.5
-            },
-            "recipe" : "thruster-oxidizer",
-            "recipe_quality" : "normal"
-         },
-         {
-            "direction" : 8,
-            "entity_number" : 80,
-            "name" : "chemical-plant",
-            "position" : {
-               "x" : 3.5,
-               "y" : 6.5
-            },
-            "recipe" : "ice-melting",
-            "recipe_quality" : "normal"
-         },
-         {
-            "entity_number" : 81,
-            "name" : "solar-panel",
-            "position" : {
-               "x" : 6.5,
-               "y" : 7.5
-            }
-         },
-         {
-            "entity_number" : 82,
-            "name" : "solar-panel",
-            "position" : {
-               "x" : 9.5,
-               "y" : 7.5
-            }
-         },
-         {
-            "entity_number" : 83,
-            "name" : "solar-panel",
-            "position" : {
-               "x" : -11.5,
-               "y" : 8.5
-            }
-         },
-         {
-            "direction" : 12,
-            "entity_number" : 84,
-            "name" : "fast-transport-belt",
-            "position" : {
-               "x" : -8.5,
-               "y" : 8.5
-            }
-         },
-         {
-            "entity_number" : 85,
-            "name" : "fast-transport-belt",
-            "position" : {
-               "x" : -9.5,
-               "y" : 8.5
+               "x" : -7,
+               "y" : 4
             }
          },
          {
             "direction" : 4,
-            "entity_number" : 86,
-            "name" : "bulk-inserter",
+            "entity_number" : 189,
+            "name" : "fast-inserter",
             "position" : {
-               "x" : -7.5,
-               "y" : 8.5
+               "x" : -6,
+               "y" : 4
             }
          },
          {
-            "entity_number" : 87,
-            "name" : "pipe",
+            "direction" : 2,
+            "entity_number" : 190,
+            "name" : "transport-belt",
             "position" : {
-               "x" : -3.5,
-               "y" : 8.5
+               "x" : -6,
+               "y" : 3
             }
          },
          {
-            "entity_number" : 88,
-            "name" : "pipe",
+            "direction" : 2,
+            "entity_number" : 191,
+            "name" : "transport-belt",
             "position" : {
-               "x" : 1.5,
-               "y" : 8.5
+               "x" : -7,
+               "y" : 3
             }
          },
          {
-            "entity_number" : 89,
-            "name" : "solar-panel",
+            "direction" : 2,
+            "entity_number" : 192,
+            "name" : "transport-belt",
             "position" : {
-               "x" : -8.5,
-               "y" : 10.5
+               "x" : -5,
+               "y" : 3
             }
          },
          {
-            "entity_number" : 90,
-            "name" : "solar-panel",
+            "direction" : 2,
+            "entity_number" : 193,
+            "name" : "underground-belt",
             "position" : {
-               "x" : -5.5,
-               "y" : 10.5
+               "x" : -4,
+               "y" : 3
+            },
+            "type" : "input"
+         },
+         {
+            "entity_number" : 194,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -3,
+               "y" : 3
             }
          },
          {
-            "entity_number" : 91,
-            "name" : "thruster",
+            "entity_number" : 195,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : 4
+            }
+         },
+         {
+            "entity_number" : 196,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 197,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 0,
+               "y" : 4
+            }
+         },
+         {
+            "entity_number" : 198,
+            "name" : "medium-electric-pole",
             "position" : {
                "x" : -1,
-               "y" : 10.5
+               "y" : 4
             }
          },
          {
-            "entity_number" : 92,
-            "name" : "solar-panel",
+            "bar" : 1,
+            "entity_number" : 199,
+            "name" : "wooden-chest",
             "position" : {
-               "x" : 6.5,
-               "y" : 10.5
+               "x" : 0,
+               "y" : 3
             }
          },
          {
-            "entity_number" : 93,
-            "name" : "solar-panel",
+            "direction" : 2,
+            "entity_number" : 200,
+            "name" : "underground-belt",
             "position" : {
-               "x" : 9.5,
-               "y" : 10.5
+               "x" : 2,
+               "y" : 3
+            },
+            "type" : "input"
+         },
+         {
+            "entity_number" : 201,
+            "name" : "inserter",
+            "position" : {
+               "x" : 2,
+               "y" : 4
+            }
+         },
+         {
+            "entity_number" : 202,
+            "name" : "inserter",
+            "position" : {
+               "x" : 1,
+               "y" : 4
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 203,
+            "name" : "underground-belt",
+            "position" : {
+               "x" : 1,
+               "y" : 3
+            },
+            "type" : "output"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 204,
+            "name" : "underground-belt",
+            "position" : {
+               "x" : 6,
+               "y" : 3
+            },
+            "type" : "output"
+         },
+         {
+            "entity_number" : 205,
+            "name" : "inserter",
+            "position" : {
+               "x" : 6,
+               "y" : 4
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 206,
+            "name" : "underground-belt",
+            "position" : {
+               "x" : 8,
+               "y" : 3
+            },
+            "type" : "input"
+         },
+         {
+            "entity_number" : 207,
+            "name" : "inserter",
+            "position" : {
+               "x" : 8,
+               "y" : 4
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 208,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : 7,
+               "y" : 3
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 209,
+            "name" : "underground-belt",
+            "position" : {
+               "x" : 12,
+               "y" : 3
+            },
+            "type" : "output"
+         },
+         {
+            "entity_number" : 210,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 12,
+               "y" : 4
+            }
+         },
+         {
+            "entity_number" : 211,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 13,
+               "y" : 4
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 212,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : 13,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 213,
+            "name" : "assembling-machine-2",
+            "position" : {
+               "x" : -14,
+               "y" : 6
+            },
+            "recipe" : "iron-gear-wheel"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 214,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -12,
+               "y" : 6
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 215,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -12,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 216,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -11,
+               "y" : 6
+            }
+         },
+         {
+            "entity_number" : 217,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -11,
+               "y" : 5
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 218,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -10,
+               "y" : 6
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 219,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -10,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 220,
+            "name" : "assembling-machine-2",
+            "position" : {
+               "x" : -8,
+               "y" : 6
+            },
+            "recipe" : "iron-gear-wheel"
+         },
+         {
+            "entity_number" : 221,
+            "name" : "assembling-machine-2",
+            "position" : {
+               "x" : -5,
+               "y" : 6
+            },
+            "recipe" : "iron-gear-wheel"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 222,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -3,
+               "y" : 6
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 223,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -3,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 224,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : 6
+            }
+         },
+         {
+            "entity_number" : 225,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : 5
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 226,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -1,
+               "y" : 6
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 227,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -1,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 228,
+            "name" : "assembling-machine-1",
+            "position" : {
+               "x" : 1,
+               "y" : 6
+            },
+            "recipe" : "underground-belt"
+         },
+         {
+            "entity_number" : 229,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 4,
+               "y" : 6
+            }
+         },
+         {
+            "connections" : {
+               "1" : {
+                  "red" : [
+                     {
+                        "entity_id" : 231
+                     }
+                  ]
+               }
+            },
+            "entity_number" : 230,
+            "name" : "logistic-chest-requester",
+            "position" : {
+               "x" : 4,
+               "y" : 5
+            },
+            "request_filters" : [
+               {
+                  "count" : 500,
+                  "index" : 1,
+                  "name" : "underground-belt"
+               }
+            ]
+         },
+         {
+            "connections" : {
+               "1" : {
+                  "red" : [
+                     {
+                        "entity_id" : 230
+                     }
+                  ]
+               }
+            },
+            "control_behavior" : {
+               "circuit_condition" : {
+                  "comparator" : "<",
+                  "constant" : 50,
+                  "first_signal" : {
+                     "name" : "underground-belt",
+                     "type" : "item"
+                  }
+               }
+            },
+            "direction" : 6,
+            "entity_number" : 231,
+            "name" : "inserter",
+            "position" : {
+               "x" : 3,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 232,
+            "name" : "assembling-machine-1",
+            "position" : {
+               "x" : 7,
+               "y" : 6
+            },
+            "recipe" : "fast-underground-belt"
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 233,
+            "name" : "inserter",
+            "position" : {
+               "x" : 5,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 234,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 10,
+               "y" : 6
+            }
+         },
+         {
+            "connections" : {
+               "1" : {
+                  "red" : [
+                     {
+                        "entity_id" : 236
+                     }
+                  ]
+               }
+            },
+            "entity_number" : 235,
+            "name" : "logistic-chest-requester",
+            "position" : {
+               "x" : 10,
+               "y" : 5
+            },
+            "request_filters" : [
+               {
+                  "count" : 500,
+                  "index" : 1,
+                  "name" : "fast-underground-belt"
+               }
+            ]
+         },
+         {
+            "connections" : {
+               "1" : {
+                  "red" : [
+                     {
+                        "entity_id" : 235
+                     }
+                  ]
+               }
+            },
+            "control_behavior" : {
+               "circuit_condition" : {
+                  "comparator" : "<",
+                  "constant" : 50,
+                  "first_signal" : {
+                     "name" : "fast-underground-belt",
+                     "type" : "item"
+                  }
+               }
+            },
+            "direction" : 6,
+            "entity_number" : 236,
+            "name" : "inserter",
+            "position" : {
+               "x" : 9,
+               "y" : 5
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 237,
+            "name" : "inserter",
+            "position" : {
+               "x" : 11,
+               "y" : 5
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 238,
+            "name" : "assembling-machine-2",
+            "position" : {
+               "x" : 13,
+               "y" : 6
+            },
+            "recipe" : "express-underground-belt"
+         },
+         {
+            "entity_number" : 239,
+            "name" : "pipe",
+            "position" : {
+               "x" : 15,
+               "y" : 6
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 240,
+            "name" : "pipe-to-ground",
+            "position" : {
+               "x" : 15,
+               "y" : 5
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 241,
+            "name" : "fast-splitter",
+            "position" : {
+               "x" : -12,
+               "y" : 8.5
+            }
+         },
+         {
+            "entity_number" : 242,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -11,
+               "y" : 8
+            }
+         },
+         {
+            "entity_number" : 243,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -11,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 244,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : 8
+            }
+         },
+         {
+            "entity_number" : 245,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : 7
+            }
+         },
+         {
+            "bar" : 10,
+            "entity_number" : 246,
+            "name" : "logistic-chest-passive-provider",
+            "position" : {
+               "x" : 10,
+               "y" : 7
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 247,
+            "name" : "inserter",
+            "position" : {
+               "x" : 11,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 248,
+            "name" : "pipe-to-ground",
+            "position" : {
+               "x" : 15,
+               "y" : 7
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 249,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -14,
+               "y" : 9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 250,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -15,
+               "y" : 9
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 251,
+            "name" : "pipe-to-ground",
+            "position" : {
+               "x" : -15,
+               "y" : 10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 252,
+            "name" : "fast-transport-belt",
+            "position" : {
+               "x" : -13,
+               "y" : 9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 253,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -11,
+               "y" : 9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 254,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -10,
+               "y" : 9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 255,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -9,
+               "y" : 9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 256,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -8,
+               "y" : 9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 257,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -7,
+               "y" : 9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 258,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -6,
+               "y" : 9
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 259,
+            "name" : "pipe-to-ground",
+            "position" : {
+               "x" : -4,
+               "y" : 10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 260,
+            "name" : "pipe-to-ground",
+            "position" : {
+               "x" : -5,
+               "y" : 10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 261,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -5,
+               "y" : 9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 262,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -4,
+               "y" : 9
+            }
+         },
+         {
+            "entity_number" : 263,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : 9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 264,
+            "name" : "transport-belt",
+            "position" : {
+               "x" : -3,
+               "y" : 9
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 265,
+            "name" : "pipe-to-ground",
+            "position" : {
+               "x" : 6,
+               "y" : 10
+            }
+         },
+         {
+            "direction" : 6,
+            "entity_number" : 266,
+            "name" : "pipe-to-ground",
+            "position" : {
+               "x" : 7,
+               "y" : 10
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 267,
+            "name" : "pipe-to-ground",
+            "position" : {
+               "x" : 14,
+               "y" : 10
+            }
+         },
+         {
+            "entity_number" : 268,
+            "name" : "pipe",
+            "position" : {
+               "x" : 15,
+               "y" : 10
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 269,
+            "name" : "pipe-to-ground",
+            "position" : {
+               "x" : 15,
+               "y" : 9
             }
          }
       ],
@@ -1007,2814 +2584,27 @@
          {
             "index" : 1,
             "signal" : {
-               "name" : "nauvis",
-               "type" : "space-location"
+               "name" : "transport-belt",
+               "type" : "item"
             }
          },
          {
             "index" : 2,
             "signal" : {
-               "name" : "right-arrow",
-               "type" : "virtual"
+               "name" : "fast-transport-belt",
+               "type" : "item"
             }
          },
          {
             "index" : 3,
             "signal" : {
-               "name" : "vulcanus",
-               "type" : "space-location"
-            }
-         },
-         {
-            "index" : 4,
-            "signal" : {
-               "name" : "space-platform-starter-pack"
+               "name" : "express-transport-belt",
+               "type" : "item"
             }
          }
       ],
       "item" : "blueprint",
-      "label" : "The Milano",
-      "schedules" : [
-         {
-            "locomotives" : [
-               40
-            ],
-            "schedule" : {
-               "records" : [
-                  {
-                     "station" : "vulcanus",
-                     "wait_conditions" : [
-                        {
-                           "compare_type" : "and",
-                           "type" : "passenger_present"
-                        }
-                     ]
-                  },
-                  {
-                     "station" : "nauvis",
-                     "wait_conditions" : [
-                        {
-                           "compare_type" : "and",
-                           "type" : "passenger_present"
-                        }
-                     ]
-                  }
-               ]
-            }
-         }
-      ],
-      "tiles" : [
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : -10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : -10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : -9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : -9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : -8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : -8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : -8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : -8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : -8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : -8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : -7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : -7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : -7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : -7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : -7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : -7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : -6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : -6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : -6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : -6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : -6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : -6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -10,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -4,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 3,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : -5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -10,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -4,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 3,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 4,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : -4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -4,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 3,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 4,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 10,
-               "y" : -3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -4,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 3,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 4,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 10,
-               "y" : -2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -11,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -10,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -4,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 3,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 4,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 10,
-               "y" : -1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -11,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -10,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -4,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 3,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 4,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 10,
-               "y" : 0
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -11,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -10,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -4,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 3,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 4,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 10,
-               "y" : 1
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -11,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -10,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -4,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 3,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 4,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 10,
-               "y" : 2
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -11,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -10,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -4,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 3,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 4,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 10,
-               "y" : 3
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -14,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -13,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -12,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -11,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -10,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -4,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 3,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 4,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 10,
-               "y" : 4
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -14,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -13,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -12,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -11,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -10,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -4,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 3,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 4,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 10,
-               "y" : 5
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -14,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -13,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -12,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -11,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -10,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -4,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 3,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 4,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 10,
-               "y" : 6
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -13,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -12,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -11,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -10,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -4,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 2,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 3,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 4,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 10,
-               "y" : 7
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -13,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -12,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -11,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -10,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -4,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 1,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 10,
-               "y" : 8
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -13,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -12,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -11,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -10,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 10,
-               "y" : 9
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -10,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 10,
-               "y" : 10
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -10,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -9,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -8,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -7,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -6,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -5,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 5,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 6,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 7,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 8,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 9,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 10,
-               "y" : 11
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -3,
-               "y" : 12
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -2,
-               "y" : 12
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : -1,
-               "y" : 12
-            }
-         },
-         {
-            "name" : "space-platform-foundation",
-            "position" : {
-               "x" : 0,
-               "y" : 12
-            }
-         }
-      ],
-      "version" : 562949954338818,
-      "wires" : [
-         [
-            2,
-            1,
-            4,
-            1
-         ],
-         [
-            2,
-            1,
-            5,
-            3
-         ],
-         [
-            4,
-            1,
-            10,
-            3
-         ],
-         [
-            4,
-            1,
-            69,
-            3
-         ],
-         [
-            5,
-            1,
-            40,
-            1
-         ],
-         [
-            10,
-            1,
-            40,
-            1
-         ],
-         [
-            17,
-            1,
-            29,
-            1
-         ],
-         [
-            29,
-            1,
-            41,
-            1
-         ],
-         [
-            40,
-            1,
-            41,
-            1
-         ],
-         [
-            40,
-            1,
-            69,
-            1
-         ]
-      ]
+      "label" : "Early Belt Katherine",
+      "version" : 64425099264
    }
 }
