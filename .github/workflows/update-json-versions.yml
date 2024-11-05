@@ -1,0 +1,22 @@
+name: update-json-versions
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert:
+    name: Convert base64 pigz encoded files to json
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: install pigz
+      run: |
+        apt-get install pigz -y
+
+    - name: convert files
+      run: |
+        for dir in ls -1; do
+          echo ${dir}
+        done
