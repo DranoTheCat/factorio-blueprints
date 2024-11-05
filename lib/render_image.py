@@ -37,7 +37,7 @@ async def render_image(blueprint_string: str, output_path: str = "output_image.p
         # Paste the blueprint string into the page by invoking window.pasteBPString
         print("Pasting blueprint string into the page...")
         try:
-            print(f"Pasting blueprint string {blueprint_string}")
+            #print(f"Pasting blueprint string {blueprint_string}")
             await page.evaluate("window.pasteBPString", blueprint_string)
             print("Blueprint string pasted successfully.")
         except Exception as e:
