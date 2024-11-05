@@ -28,6 +28,7 @@ jobs:
         OIFS=${IFS}
         export IFS=$'\n'
         files_found=0
+        files_modified=0
         for dir in $(ls blueprints); do
           echo "Processing ${dir}..."
           if [ ! -d json/${dir} ]; then
@@ -37,14 +38,24 @@ jobs:
             ff="blueprints/${dir}/${file}"
             echo "  Found ${ff}"
             files_found=$((files_found+1))
-            cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "json/${dir}/${file}.json"
-            git add "json/${dir}/${file}.json"
+            if [ -f "json/${dir}/${file}.json" ]; then
+              cp "json/${dir}/${file}.json" /tmp
+              cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "json/${dir}/${file}.json"
+              if [ ! $(diff "json/${dir}/${file}.json" "/tmp/${file}.json" ]; then
+                files_modified=$((files_modified+1))
+                git add "json/${dir}/${file}.json"
+              fi
+            else
+              cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "json/${dir}/${file}.json"
+              files_modified=$((files_modified+1))
+              git add "json/${dir}/${file}.json"
+            fi
           done
         done
-        if [ ${files_found} > 0 ]; then
-          echo "Found ${files_found} blueprints."
+        if [ ${files_modified} -gt 0 ]; then
+          echo "Found ${files_found} and modified ${files_modified} blueprints."
           git status
-          git commit -m "generated ${files_found} json files"
+          git commit -m "generated ${files_modified} json files"
           git push
         fi
         IFS=${OIFS}
