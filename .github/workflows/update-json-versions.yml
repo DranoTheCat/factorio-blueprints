@@ -24,8 +24,8 @@ jobs:
         export IFS=$'\n'
         for dir in $(ls blueprints); do
           echo "Processing ${dir}..."
-          for file in $(ls "${dir}"); do
-            ls -l "${dir}/${file}"
+          for file in $(ls "blueprints/${dir}"); do
+            ls -l "blueprints/${dir}/${file}"
           done
         done
         IFS=${OIFS}
