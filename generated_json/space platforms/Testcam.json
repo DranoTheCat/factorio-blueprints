@@ -93,15 +93,15 @@
             "entity_number" : 12,
             "name" : "accumulator",
             "position" : {
-               "x" : -11,
-               "y" : 32
+               "x" : -15,
+               "y" : 34
             }
          },
          {
             "entity_number" : 13,
             "name" : "accumulator",
             "position" : {
-               "x" : -15,
+               "x" : -13,
                "y" : 34
             }
          },
@@ -109,7 +109,7 @@
             "entity_number" : 14,
             "name" : "accumulator",
             "position" : {
-               "x" : -13,
+               "x" : -11,
                "y" : 34
             }
          },
@@ -117,15 +117,15 @@
             "entity_number" : 15,
             "name" : "accumulator",
             "position" : {
-               "x" : -11,
-               "y" : 34
+               "x" : -15,
+               "y" : 36
             }
          },
          {
             "entity_number" : 16,
             "name" : "accumulator",
             "position" : {
-               "x" : -15,
+               "x" : -13,
                "y" : 36
             }
          },
@@ -133,20 +133,12 @@
             "entity_number" : 17,
             "name" : "accumulator",
             "position" : {
-               "x" : -13,
-               "y" : 36
-            }
-         },
-         {
-            "entity_number" : 18,
-            "name" : "accumulator",
-            "position" : {
                "x" : -11,
                "y" : 36
             }
          },
          {
-            "entity_number" : 19,
+            "entity_number" : 18,
             "name" : "substation",
             "position" : {
                "x" : -5,
@@ -154,7 +146,7 @@
             }
          },
          {
-            "entity_number" : 20,
+            "entity_number" : 19,
             "name" : "accumulator",
             "position" : {
                "x" : -13,
@@ -162,7 +154,7 @@
             }
          },
          {
-            "entity_number" : 21,
+            "entity_number" : 20,
             "name" : "accumulator",
             "position" : {
                "x" : -11,
@@ -170,7 +162,7 @@
             }
          },
          {
-            "entity_number" : 22,
+            "entity_number" : 21,
             "name" : "accumulator",
             "position" : {
                "x" : -11,
@@ -192,7 +184,7 @@
          [
             1,
             5,
-            19,
+            18,
             5
          ]
       ]
