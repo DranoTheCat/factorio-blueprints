@@ -5,6 +5,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   convert:
     name: Create JSON files from blueprints
@@ -17,8 +20,6 @@ jobs:
 
     - name: checkout repo
       uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.WORKFLOW_GIT_ACCESS_TOKEN }}
 
     - name: convert files
       run: |
