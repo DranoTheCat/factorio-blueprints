@@ -43,7 +43,7 @@ jobs:
           if [ ! -d generated_json/${dir} ]; then
             mkdir -p generated_json/${dir}
           fi
-          for file in $(ls "blueprints/${dir}"); do
+          for file in $(ls "blueprints/${dir} | grep -v .png$"); do
             ff="blueprints/${dir}/${file}"
             echo "  Found ${ff}"
             files_found=$((files_found+1))
