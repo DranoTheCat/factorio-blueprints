@@ -41,7 +41,6 @@ jobs:
             if [ -f "json/${dir}/${file}.json" ]; then
               cp "json/${dir}/${file}.json" /tmp
               cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "json/${dir}/${file}.json"
-              echo $?
               if ! diff "json/${dir}/${file}.json" "/tmp/${file}.json" >/dev/null; then
                 files_modified=$((files_modified+1))
                 git add "json/${dir}/${file}.json"
