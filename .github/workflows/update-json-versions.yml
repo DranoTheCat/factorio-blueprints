@@ -15,10 +15,8 @@ jobs:
       run: |
         sudo apt-get install pigz -y
 
-    - name: checkout repo
-      uses: actions/checkout@v4
-
     - name: convert files
+      uses: actions/checkout@v4
       run: |
         OIFS=${IFS}
         export IFS=$'\n'
