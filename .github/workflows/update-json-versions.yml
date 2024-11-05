@@ -17,11 +17,13 @@ jobs:
 
     - name: checkout repo
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.WORKFLOW_GIT_ACCESS_TOKEN }}
 
     - name: convert files
       run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[dranothecat-bot]"
+        git config user.email "dranothecat-bot@users.noreply.github.com"
         OIFS=${IFS}
         export IFS=$'\n'
         files_found=0
