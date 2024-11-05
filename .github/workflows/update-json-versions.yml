@@ -13,7 +13,7 @@ jobs:
     steps:
     - name: install pigz
       run: |
-        apt-get install pigz -y
+        sudo apt-get install pigz -y
 
     - name: convert files
       run: |
