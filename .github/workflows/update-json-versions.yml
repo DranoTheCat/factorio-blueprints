@@ -44,7 +44,7 @@ jobs:
               echo "test diff"
               diff "json/${dir}/${file}.json" "/tmp/${file}.json"
               echo $?
-              if [ ! $(diff "json/${dir}/${file}.json" "/tmp/${file}.json") ]; then
+              if ! diff "json/${dir}/${file}.json" "/tmp/${file}.json" >/dev/null; then
                 files_modified=$((files_modified+1))
                 git add "json/${dir}/${file}.json"
               fi
