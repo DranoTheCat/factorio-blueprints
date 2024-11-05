@@ -10,16 +10,23 @@ permissions:
 
 jobs:
   convert:
-    name: Create JSON files from blueprints
+    name: Create JSON files and rendered images from updated or new blueprints
     runs-on: ubuntu-latest
 
     steps:
-    - name: install pigz
+    - name: install dependencies
       run: |
         sudo apt-get install pigz -y
+        pip3 install -r requirements.txt
+        playwright install
 
     - name: checkout repo
       uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
 
     - name: convert files
       run: |
@@ -43,19 +50,22 @@ jobs:
               cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "json/${dir}/${file}.json"
               if ! diff "json/${dir}/${file}.json" "/tmp/${file}.json" >/dev/null; then
                 files_modified=$((files_modified+1))
-                git add "json/${dir}/${file}.json"
+                python3 scripts/render_image.py "$(cat ${ff})" "blueprints/${dir}/${file}.png"
+                git add "json/${dir}/${file}.json" "blueprints/${dir}/${file}.png"
               fi
             else
               cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "json/${dir}/${file}.json"
               files_modified=$((files_modified+1))
-              git add "json/${dir}/${file}.json"
+              python3 scripts/render_image.py "$(cat ${ff})" "blueprints/${dir}/${file}.png"
+                git add "json/${dir}/${file}.json" "blueprints/${dir}/${file}.png"
+              git add "json/${dir}/${file}.json" "blueprints/${dir}/${file}.png"
             fi
           done
         done
         if [ ${files_modified} -gt 0 ]; then
           echo "Found ${files_found} and modified ${files_modified} blueprints."
           git status
-          git commit -m "generated ${files_modified} json files"
+          git commit -m "generated ${files_modified} json files and images"
           git push
         fi
         IFS=${OIFS}
