@@ -7,7 +7,7 @@ on:
 
 jobs:
   convert:
-    name: Convert base64 pigz encoded files to json
+    name: Create JSON files from blueprints
     runs-on: ubuntu-latest
 
     steps:
@@ -22,10 +22,24 @@ jobs:
       run: |
         OIFS=${IFS}
         export IFS=$'\n'
+        files_found=0
         for dir in $(ls blueprints); do
           echo "Processing ${dir}..."
+          if [ ! -d json/${dir} ]; then
+            mkdir -p json/${dir}
+          fi
           for file in $(ls "blueprints/${dir}"); do
-            ls -l "blueprints/${dir}/${file}"
+            ff="blueprints/${dir}/${file}"
+            echo "  Found ${ff}"
+            files_found=$((files_found+1))
+            cat ${ff} | cut -c2- | base64 -d | pigz -d > "json/${dir}/${file}.json"
+            git add "json/${dir}/${file}.json"
           done
         done
+        if [ ${files_found} > 0 ]; then
+          echo "Found ${files_found} blueprints."
+          git status
+          git commit -m "generated ${files_found} json files"
+          git push
+        fi
         IFS=${OIFS}
