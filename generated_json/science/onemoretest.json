@@ -1,0 +1,4085 @@
+{
+   "blueprint" : {
+      "entities" : [
+         {
+            "direction" : 2,
+            "entity_number" : 1,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -18,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 2,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -17,
+               "y" : -18
+            }
+         },
+         {
+            "entity_number" : 3,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -15,
+               "y" : -17
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 4,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -15,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 5,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -16,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 6,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -13,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 7,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -14,
+               "y" : -18
+            }
+         },
+         {
+            "entity_number" : 8,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -12,
+               "y" : -17
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 9,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -11,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 10,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -12,
+               "y" : -18
+            }
+         },
+         {
+            "entity_number" : 11,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -9,
+               "y" : -17
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 12,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -9,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 13,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -10,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 14,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -7,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 15,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -8,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 16,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -5,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 17,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -6,
+               "y" : -18
+            }
+         },
+         {
+            "entity_number" : 18,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -3,
+               "y" : -17
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 19,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -3,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 20,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -4,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 21,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -1,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 22,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -2,
+               "y" : -18
+            }
+         },
+         {
+            "entity_number" : 23,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 0,
+               "y" : -17
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 24,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 1,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 25,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 0,
+               "y" : -18
+            }
+         },
+         {
+            "entity_number" : 26,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 3,
+               "y" : -17
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 27,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 3,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 28,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 2,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 29,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 5,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 30,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 4,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 31,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 7,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 32,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 6,
+               "y" : -18
+            }
+         },
+         {
+            "entity_number" : 33,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 9,
+               "y" : -17
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 34,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 9,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 35,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 8,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 36,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 11,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 37,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 10,
+               "y" : -18
+            }
+         },
+         {
+            "entity_number" : 38,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 12,
+               "y" : -17
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 39,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 13,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 40,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 12,
+               "y" : -18
+            }
+         },
+         {
+            "entity_number" : 41,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 15,
+               "y" : -17
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 42,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 15,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 43,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 14,
+               "y" : -18
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 44,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -18,
+               "y" : -16
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 45,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -18,
+               "y" : -15
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 46,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : -17,
+               "y" : -15
+            },
+            "type" : "input"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 47,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : -17,
+               "y" : -16
+            },
+            "type" : "input"
+         },
+         {
+            "entity_number" : 48,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -15,
+               "y" : -15
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 49,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -13,
+               "y" : -15
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 50,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -13,
+               "y" : -16
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 51,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : -11,
+               "y" : -15
+            },
+            "type" : "input"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 52,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : -12,
+               "y" : -15
+            },
+            "type" : "output"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 53,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : -12,
+               "y" : -16
+            },
+            "type" : "output"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 54,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : -11,
+               "y" : -16
+            },
+            "type" : "input"
+         },
+         {
+            "entity_number" : 55,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -9,
+               "y" : -15
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 56,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -7,
+               "y" : -15
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 57,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -7,
+               "y" : -16
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 58,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : -5,
+               "y" : -15
+            },
+            "type" : "input"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 59,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : -6,
+               "y" : -15
+            },
+            "type" : "output"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 60,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : -5,
+               "y" : -16
+            },
+            "type" : "input"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 61,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : -6,
+               "y" : -16
+            },
+            "type" : "output"
+         },
+         {
+            "entity_number" : 62,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -3,
+               "y" : -15
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 63,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -1,
+               "y" : -15
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 64,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -1,
+               "y" : -16
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 65,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 1,
+               "y" : -15
+            },
+            "type" : "input"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 66,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 0,
+               "y" : -15
+            },
+            "type" : "output"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 67,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 1,
+               "y" : -16
+            },
+            "type" : "input"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 68,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 0,
+               "y" : -16
+            },
+            "type" : "output"
+         },
+         {
+            "entity_number" : 69,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 3,
+               "y" : -15
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 70,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 5,
+               "y" : -15
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 71,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 5,
+               "y" : -16
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 72,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 7,
+               "y" : -15
+            },
+            "type" : "input"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 73,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 6,
+               "y" : -15
+            },
+            "type" : "output"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 74,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 7,
+               "y" : -16
+            },
+            "type" : "input"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 75,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 6,
+               "y" : -16
+            },
+            "type" : "output"
+         },
+         {
+            "entity_number" : 76,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 9,
+               "y" : -15
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 77,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 11,
+               "y" : -15
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 78,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 11,
+               "y" : -16
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 79,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 13,
+               "y" : -15
+            },
+            "type" : "input"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 80,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 12,
+               "y" : -15
+            },
+            "type" : "output"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 81,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 13,
+               "y" : -16
+            },
+            "type" : "input"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 82,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 12,
+               "y" : -16
+            },
+            "type" : "output"
+         },
+         {
+            "entity_number" : 83,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 15,
+               "y" : -15
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 84,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 17,
+               "y" : -15
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 85,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 17,
+               "y" : -16
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 86,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 18,
+               "y" : -15
+            },
+            "type" : "output"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 87,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 18,
+               "y" : -16
+            },
+            "type" : "output"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 88,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : -18,
+               "y" : -14
+            }
+         },
+         {
+            "entity_number" : 89,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -18,
+               "y" : -13
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 90,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : -17,
+               "y" : -14
+            },
+            "type" : "input"
+         },
+         {
+            "entity_number" : 91,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -15,
+               "y" : -13
+            }
+         },
+         {
+            "entity_number" : 92,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -16,
+               "y" : -13
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 93,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -13,
+               "y" : -14
+            }
+         },
+         {
+            "entity_number" : 94,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -14,
+               "y" : -13
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 95,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : -11,
+               "y" : -14
+            },
+            "type" : "input"
+         },
+         {
+            "entity_number" : 96,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -12,
+               "y" : -13
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 97,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : -12,
+               "y" : -14
+            },
+            "type" : "output"
+         },
+         {
+            "entity_number" : 98,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -9,
+               "y" : -13
+            }
+         },
+         {
+            "entity_number" : 99,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -10,
+               "y" : -13
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 100,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -7,
+               "y" : -14
+            }
+         },
+         {
+            "entity_number" : 101,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -8,
+               "y" : -13
+            }
+         },
+         {
+            "entity_number" : 102,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -6,
+               "y" : -13
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 103,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : -5,
+               "y" : -14
+            },
+            "type" : "input"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 104,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : -6,
+               "y" : -14
+            },
+            "type" : "output"
+         },
+         {
+            "entity_number" : 105,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -3,
+               "y" : -13
+            }
+         },
+         {
+            "entity_number" : 106,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -4,
+               "y" : -13
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 107,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -1,
+               "y" : -14
+            }
+         },
+         {
+            "entity_number" : 108,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -2,
+               "y" : -13
+            }
+         },
+         {
+            "entity_number" : 109,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 0,
+               "y" : -13
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 110,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 1,
+               "y" : -14
+            },
+            "type" : "input"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 111,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 0,
+               "y" : -14
+            },
+            "type" : "output"
+         },
+         {
+            "entity_number" : 112,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 3,
+               "y" : -13
+            }
+         },
+         {
+            "entity_number" : 113,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 2,
+               "y" : -13
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 114,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 5,
+               "y" : -14
+            }
+         },
+         {
+            "entity_number" : 115,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 4,
+               "y" : -13
+            }
+         },
+         {
+            "entity_number" : 116,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 6,
+               "y" : -13
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 117,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 7,
+               "y" : -14
+            },
+            "type" : "input"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 118,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 6,
+               "y" : -14
+            },
+            "type" : "output"
+         },
+         {
+            "entity_number" : 119,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 9,
+               "y" : -13
+            }
+         },
+         {
+            "entity_number" : 120,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 8,
+               "y" : -13
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 121,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 11,
+               "y" : -14
+            }
+         },
+         {
+            "entity_number" : 122,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 10,
+               "y" : -13
+            }
+         },
+         {
+            "entity_number" : 123,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 12,
+               "y" : -13
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 124,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 13,
+               "y" : -14
+            },
+            "type" : "input"
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 125,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 12,
+               "y" : -14
+            },
+            "type" : "output"
+         },
+         {
+            "entity_number" : 126,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 15,
+               "y" : -13
+            }
+         },
+         {
+            "entity_number" : 127,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 14,
+               "y" : -13
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 128,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 17,
+               "y" : -14
+            }
+         },
+         {
+            "entity_number" : 129,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 16,
+               "y" : -13
+            }
+         },
+         {
+            "entity_number" : 130,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 18,
+               "y" : -13
+            }
+         },
+         {
+            "direction" : 2,
+            "entity_number" : 131,
+            "name" : "express-underground-belt",
+            "position" : {
+               "x" : 18,
+               "y" : -14
+            },
+            "type" : "output"
+         },
+         {
+            "entity_number" : 132,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -18,
+               "y" : -11
+            }
+         },
+         {
+            "entity_number" : 133,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -15,
+               "y" : -11
+            }
+         },
+         {
+            "entity_number" : 134,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -12,
+               "y" : -11
+            }
+         },
+         {
+            "entity_number" : 135,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -9,
+               "y" : -11
+            }
+         },
+         {
+            "entity_number" : 136,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -6,
+               "y" : -11
+            }
+         },
+         {
+            "entity_number" : 137,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -3,
+               "y" : -11
+            }
+         },
+         {
+            "entity_number" : 138,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 0,
+               "y" : -11
+            }
+         },
+         {
+            "entity_number" : 139,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 3,
+               "y" : -11
+            }
+         },
+         {
+            "entity_number" : 140,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 6,
+               "y" : -11
+            }
+         },
+         {
+            "entity_number" : 141,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 9,
+               "y" : -11
+            }
+         },
+         {
+            "entity_number" : 142,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 12,
+               "y" : -11
+            }
+         },
+         {
+            "entity_number" : 143,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 15,
+               "y" : -11
+            }
+         },
+         {
+            "entity_number" : 144,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 18,
+               "y" : -11
+            }
+         },
+         {
+            "entity_number" : 145,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -18,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 146,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -15,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 147,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -16,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 148,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -14,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 149,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -12,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 150,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -9,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 151,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -10,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 152,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -8,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 153,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -6,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 154,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -3,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 155,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -4,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 156,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -2,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 157,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 0,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 158,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 3,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 159,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 2,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 160,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 4,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 161,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 6,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 162,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 9,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 163,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 8,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 164,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 10,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 165,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 12,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 166,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 15,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 167,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 14,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 168,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 16,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 169,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 18,
+               "y" : -9
+            }
+         },
+         {
+            "entity_number" : 170,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -18,
+               "y" : -7
+            }
+         },
+         {
+            "entity_number" : 171,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -15,
+               "y" : -7
+            }
+         },
+         {
+            "entity_number" : 172,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -12,
+               "y" : -7
+            }
+         },
+         {
+            "entity_number" : 173,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -9,
+               "y" : -7
+            }
+         },
+         {
+            "entity_number" : 174,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -6,
+               "y" : -7
+            }
+         },
+         {
+            "entity_number" : 175,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -3,
+               "y" : -7
+            }
+         },
+         {
+            "entity_number" : 176,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 0,
+               "y" : -7
+            }
+         },
+         {
+            "entity_number" : 177,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 3,
+               "y" : -7
+            }
+         },
+         {
+            "entity_number" : 178,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 6,
+               "y" : -7
+            }
+         },
+         {
+            "entity_number" : 179,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 9,
+               "y" : -7
+            }
+         },
+         {
+            "entity_number" : 180,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 12,
+               "y" : -7
+            }
+         },
+         {
+            "entity_number" : 181,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 15,
+               "y" : -7
+            }
+         },
+         {
+            "entity_number" : 182,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 18,
+               "y" : -7
+            }
+         },
+         {
+            "entity_number" : 183,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -18,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 184,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -15,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 185,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -16,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 186,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -14,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 187,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -12,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 188,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -9,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 189,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -10,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 190,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -8,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 191,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -6,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 192,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -3,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 193,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -4,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 194,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -2,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 195,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 0,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 196,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 3,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 197,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 2,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 198,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 4,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 199,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 6,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 200,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 9,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 201,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 8,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 202,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 10,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 203,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 12,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 204,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 15,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 205,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 14,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 206,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 16,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 207,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 18,
+               "y" : -5
+            }
+         },
+         {
+            "entity_number" : 208,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -18,
+               "y" : -3
+            }
+         },
+         {
+            "entity_number" : 209,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -15,
+               "y" : -3
+            }
+         },
+         {
+            "entity_number" : 210,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -12,
+               "y" : -3
+            }
+         },
+         {
+            "entity_number" : 211,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -9,
+               "y" : -3
+            }
+         },
+         {
+            "entity_number" : 212,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -6,
+               "y" : -3
+            }
+         },
+         {
+            "entity_number" : 213,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -3,
+               "y" : -3
+            }
+         },
+         {
+            "entity_number" : 214,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 0,
+               "y" : -3
+            }
+         },
+         {
+            "entity_number" : 215,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 3,
+               "y" : -3
+            }
+         },
+         {
+            "entity_number" : 216,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 6,
+               "y" : -3
+            }
+         },
+         {
+            "entity_number" : 217,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 9,
+               "y" : -3
+            }
+         },
+         {
+            "entity_number" : 218,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 12,
+               "y" : -3
+            }
+         },
+         {
+            "entity_number" : 219,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 15,
+               "y" : -3
+            }
+         },
+         {
+            "entity_number" : 220,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 18,
+               "y" : -3
+            }
+         },
+         {
+            "entity_number" : 221,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -18,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 222,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -15,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 223,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -16,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 224,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -14,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 225,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -12,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 226,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -10,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 227,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -9,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 228,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -8,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 229,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -6,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 230,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -3,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 231,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -4,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 232,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -2,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 233,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 0,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 234,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 3,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 235,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 2,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 236,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 4,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 237,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 6,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 238,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 9,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 239,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 8,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 240,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 10,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 241,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 12,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 242,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 14,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 243,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 15,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 244,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 16,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 245,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 18,
+               "y" : -1
+            }
+         },
+         {
+            "entity_number" : 246,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -18,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 247,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -15,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 248,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -12,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 249,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -9,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 250,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -6,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 251,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -3,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 252,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 0,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 253,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 3,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 254,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 6,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 255,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 9,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 256,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 12,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 257,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 15,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 258,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 18,
+               "y" : 1
+            }
+         },
+         {
+            "entity_number" : 259,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -18,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 260,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -15,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 261,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -16,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 262,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -14,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 263,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -12,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 264,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -9,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 265,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -10,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 266,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -8,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 267,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -6,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 268,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -3,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 269,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -4,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 270,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -2,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 271,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 0,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 272,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 2,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 273,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 3,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 274,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 4,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 275,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 6,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 276,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 9,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 277,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 8,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 278,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 10,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 279,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 12,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 280,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 14,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 281,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 15,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 282,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 16,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 283,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 18,
+               "y" : 3
+            }
+         },
+         {
+            "entity_number" : 284,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -18,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 285,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -15,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 286,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -12,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 287,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -9,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 288,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -6,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 289,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -3,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 290,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 0,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 291,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 3,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 292,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 6,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 293,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 9,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 294,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 12,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 295,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 15,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 296,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 18,
+               "y" : 5
+            }
+         },
+         {
+            "entity_number" : 297,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -18,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 298,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -15,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 299,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -16,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 300,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -14,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 301,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -12,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 302,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -9,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 303,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -10,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 304,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -8,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 305,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -6,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 306,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -3,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 307,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -4,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 308,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -2,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 309,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 0,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 310,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 2,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 311,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 3,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 312,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 4,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 313,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 6,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 314,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 9,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 315,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 8,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 316,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 10,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 317,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 12,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 318,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 15,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 319,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 14,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 320,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 16,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 321,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 18,
+               "y" : 7
+            }
+         },
+         {
+            "entity_number" : 322,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -18,
+               "y" : 9
+            }
+         },
+         {
+            "entity_number" : 323,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -15,
+               "y" : 9
+            }
+         },
+         {
+            "entity_number" : 324,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -12,
+               "y" : 9
+            }
+         },
+         {
+            "entity_number" : 325,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -9,
+               "y" : 9
+            }
+         },
+         {
+            "entity_number" : 326,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -6,
+               "y" : 9
+            }
+         },
+         {
+            "entity_number" : 327,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -3,
+               "y" : 9
+            }
+         },
+         {
+            "entity_number" : 328,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 0,
+               "y" : 9
+            }
+         },
+         {
+            "entity_number" : 329,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 3,
+               "y" : 9
+            }
+         },
+         {
+            "entity_number" : 330,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 6,
+               "y" : 9
+            }
+         },
+         {
+            "entity_number" : 331,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 9,
+               "y" : 9
+            }
+         },
+         {
+            "entity_number" : 332,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 12,
+               "y" : 9
+            }
+         },
+         {
+            "entity_number" : 333,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 15,
+               "y" : 9
+            }
+         },
+         {
+            "entity_number" : 334,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 18,
+               "y" : 9
+            }
+         },
+         {
+            "entity_number" : 335,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -18,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 336,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -15,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 337,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -16,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 338,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -14,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 339,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -12,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 340,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -9,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 341,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -10,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 342,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -8,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 343,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -6,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 344,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -3,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 345,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -4,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 346,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -2,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 347,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 0,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 348,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 3,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 349,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 2,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 350,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 4,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 351,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 6,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 352,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 9,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 353,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 8,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 354,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 10,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 355,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 12,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 356,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 15,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 357,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 14,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 358,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 16,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 359,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 18,
+               "y" : 11
+            }
+         },
+         {
+            "entity_number" : 360,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -18,
+               "y" : 13
+            }
+         },
+         {
+            "entity_number" : 361,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -15,
+               "y" : 13
+            }
+         },
+         {
+            "entity_number" : 362,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -12,
+               "y" : 13
+            }
+         },
+         {
+            "entity_number" : 363,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -9,
+               "y" : 13
+            }
+         },
+         {
+            "entity_number" : 364,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -6,
+               "y" : 13
+            }
+         },
+         {
+            "entity_number" : 365,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -3,
+               "y" : 13
+            }
+         },
+         {
+            "entity_number" : 366,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 0,
+               "y" : 13
+            }
+         },
+         {
+            "entity_number" : 367,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 3,
+               "y" : 13
+            }
+         },
+         {
+            "entity_number" : 368,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 6,
+               "y" : 13
+            }
+         },
+         {
+            "entity_number" : 369,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 9,
+               "y" : 13
+            }
+         },
+         {
+            "entity_number" : 370,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 12,
+               "y" : 13
+            }
+         },
+         {
+            "entity_number" : 371,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 15,
+               "y" : 13
+            }
+         },
+         {
+            "entity_number" : 372,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 18,
+               "y" : 13
+            }
+         },
+         {
+            "entity_number" : 373,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -18,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 374,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -15,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 375,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -16,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 376,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -14,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 377,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -12,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 378,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -9,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 379,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -10,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 380,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -8,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 381,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : -6,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 382,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -3,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 383,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -4,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 384,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : -2,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 385,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 0,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 386,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 3,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 387,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 2,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 388,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 4,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 389,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 6,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 390,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 9,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 391,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 8,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 392,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 10,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 393,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 12,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 394,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 15,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 395,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 14,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 396,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 16,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 397,
+            "name" : "medium-electric-pole",
+            "position" : {
+               "x" : 18,
+               "y" : 15
+            }
+         },
+         {
+            "entity_number" : 398,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -18,
+               "y" : 17
+            }
+         },
+         {
+            "entity_number" : 399,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -15,
+               "y" : 17
+            }
+         },
+         {
+            "entity_number" : 400,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -12,
+               "y" : 17
+            }
+         },
+         {
+            "entity_number" : 401,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -9,
+               "y" : 17
+            }
+         },
+         {
+            "entity_number" : 402,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : -6,
+               "y" : 17
+            }
+         },
+         {
+            "entity_number" : 403,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : -3,
+               "y" : 17
+            }
+         },
+         {
+            "entity_number" : 404,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 0,
+               "y" : 17
+            }
+         },
+         {
+            "entity_number" : 405,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 3,
+               "y" : 17
+            }
+         },
+         {
+            "entity_number" : 406,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 6,
+               "y" : 17
+            }
+         },
+         {
+            "entity_number" : 407,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 9,
+               "y" : 17
+            }
+         },
+         {
+            "entity_number" : 408,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 12,
+               "y" : 17
+            }
+         },
+         {
+            "entity_number" : 409,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "productivity-module-3"
+               }
+            ],
+            "name" : "lab",
+            "position" : {
+               "x" : 15,
+               "y" : 17
+            }
+         },
+         {
+            "entity_number" : 410,
+            "items" : [
+               {
+                  "count" : 2,
+                  "item" : "speed-module-3"
+               }
+            ],
+            "name" : "beacon",
+            "position" : {
+               "x" : 18,
+               "y" : 17
+            }
+         }
+      ],
+      "icons" : [
+         {
+            "index" : 1,
+            "signal" : {
+               "name" : "lab",
+               "type" : "item"
+            }
+         }
+      ],
+      "item" : "blueprint",
+      "label" : "Labs (late game)",
+      "version" : 64425099264
+   }
+}
