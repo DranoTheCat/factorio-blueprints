@@ -17,6 +17,6 @@ jobs:
 
     - name: convert files
       run: |
-        for dir in ls -1; do
+        for dir in $(ls blueprints); do
           echo ${dir}
         done
