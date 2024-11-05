@@ -52,15 +52,21 @@ jobs:
               cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "generated_json/${dir}/${file}.json"
               if ! diff "generated_json/${dir}/${file}.json" "/tmp/${file}.json" >/dev/null; then
                 if python3 lib/render_image.py "$(cat ${ff})" "blueprints/${dir}/${file}.png" ; then
-                  files_modified=$((files_modified+1))
+                  files_modified=$((files_modified+2))
                   git add "generated_json/${dir}/${file}.json" "blueprints/${dir}/${file}.png"
+                else
+                  git add "generated_json/${dir}/${file}.json"
+                  files_modified=$((files_modified+1))
                 fi
               fi
             else
               cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "generated_json/${dir}/${file}.json"
               if python3 lib/render_image.py "$(cat ${ff})" "blueprints/${dir}/${file}.png" ; then
-                files_modified=$((files_modified+1))
+                files_modified=$((files_modified+2))
                 git add "generated_json/${dir}/${file}.json" "blueprints/${dir}/${file}.png"
+              else
+                git add "generated_json/${dir}/${file}.json"
+                files_modified=$((files_modified+1))
               fi
             fi
           done
