@@ -40,27 +40,27 @@ jobs:
         files_modified=0
         for dir in $(ls blueprints); do
           echo "Processing ${dir}..."
-          if [ ! -d json/${dir} ]; then
-            mkdir -p json/${dir}
+          if [ ! -d generated_json/${dir} ]; then
+            mkdir -p generated_json/${dir}
           fi
           for file in $(ls "blueprints/${dir}"); do
             ff="blueprints/${dir}/${file}"
             echo "  Found ${ff}"
             files_found=$((files_found+1))
-            if [ -f "json/${dir}/${file}.json" ]; then
-              cp "json/${dir}/${file}.json" /tmp
-              cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "json/${dir}/${file}.json"
-              if ! diff "json/${dir}/${file}.json" "/tmp/${file}.json" >/dev/null; then
+            if [ -f "generated_json/${dir}/${file}.json" ]; then
+              cp "generated_json/${dir}/${file}.json" /tmp
+              cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "generated_json/${dir}/${file}.json"
+              if ! diff "generated_json/${dir}/${file}.json" "/tmp/${file}.json" >/dev/null; then
                 if python3 lib/render_image.py "$(cat ${ff})" "blueprints/${dir}/${file}.png" ; then
                   files_modified=$((files_modified+1))
-                  git add "json/${dir}/${file}.json" "blueprints/${dir}/${file}.png"
+                  git add "generated_json/${dir}/${file}.json" "blueprints/${dir}/${file}.png"
                 fi
               fi
             else
               cat ${ff} | cut -c2- | base64 -d | pigz -d | json_pp > "json/${dir}/${file}.json"
               if python3 lib/render_image.py "$(cat ${ff})" "blueprints/${dir}/${file}.png" ; then
                 files_modified=$((files_modified+1))
-                git add "json/${dir}/${file}.json" "blueprints/${dir}/${file}.png"
+                git add "generated_json/${dir}/${file}.json" "blueprints/${dir}/${file}.png"
               fi
             fi
           done
