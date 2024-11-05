@@ -15,9 +15,13 @@ jobs:
       run: |
         sudo apt-get install pigz -y
 
-    - name: convert files
+    - name: checkout repo
       uses: actions/checkout@v4
+
+    - name: convert files
       run: |
+        git config user.name "github-actions[dranothecat-bot]"
+        git config user.email "dranothecat@users.noreply.github.com"
         OIFS=${IFS}
         export IFS=$'\n'
         files_found=0
