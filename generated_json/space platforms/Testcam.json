@@ -1,0 +1,200 @@
+{
+   "blueprint" : {
+      "entities" : [
+         {
+            "entity_number" : 1,
+            "name" : "substation",
+            "position" : {
+               "x" : -5,
+               "y" : 18
+            }
+         },
+         {
+            "entity_number" : 2,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -17,
+               "y" : 28
+            }
+         },
+         {
+            "entity_number" : 3,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -15,
+               "y" : 28
+            }
+         },
+         {
+            "entity_number" : 4,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -13,
+               "y" : 28
+            }
+         },
+         {
+            "entity_number" : 5,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -11,
+               "y" : 28
+            }
+         },
+         {
+            "entity_number" : 6,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -17,
+               "y" : 30
+            }
+         },
+         {
+            "entity_number" : 7,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -15,
+               "y" : 30
+            }
+         },
+         {
+            "entity_number" : 8,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -13,
+               "y" : 30
+            }
+         },
+         {
+            "entity_number" : 9,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -11,
+               "y" : 30
+            }
+         },
+         {
+            "entity_number" : 10,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -15,
+               "y" : 32
+            }
+         },
+         {
+            "entity_number" : 11,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -13,
+               "y" : 32
+            }
+         },
+         {
+            "entity_number" : 12,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -11,
+               "y" : 32
+            }
+         },
+         {
+            "entity_number" : 13,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -15,
+               "y" : 34
+            }
+         },
+         {
+            "entity_number" : 14,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -13,
+               "y" : 34
+            }
+         },
+         {
+            "entity_number" : 15,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -11,
+               "y" : 34
+            }
+         },
+         {
+            "entity_number" : 16,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -15,
+               "y" : 36
+            }
+         },
+         {
+            "entity_number" : 17,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -13,
+               "y" : 36
+            }
+         },
+         {
+            "entity_number" : 18,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -11,
+               "y" : 36
+            }
+         },
+         {
+            "entity_number" : 19,
+            "name" : "substation",
+            "position" : {
+               "x" : -5,
+               "y" : 36
+            }
+         },
+         {
+            "entity_number" : 20,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -13,
+               "y" : 38
+            }
+         },
+         {
+            "entity_number" : 21,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -11,
+               "y" : 38
+            }
+         },
+         {
+            "entity_number" : 22,
+            "name" : "accumulator",
+            "position" : {
+               "x" : -11,
+               "y" : 40
+            }
+         }
+      ],
+      "icons" : [
+         {
+            "index" : 1,
+            "signal" : {
+               "name" : "accumulator"
+            }
+         }
+      ],
+      "item" : "blueprint",
+      "version" : 562949954338818,
+      "wires" : [
+         [
+            1,
+            5,
+            19,
+            5
+         ]
+      ]
+   }
+}
