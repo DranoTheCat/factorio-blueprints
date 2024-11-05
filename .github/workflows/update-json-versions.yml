@@ -14,15 +14,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: checkout repo
+      uses: actions/checkout@v4
+
     - name: install dependencies
       run: |
         sudo apt-get install pigz -y
         cd lib
         pip3 install -r requirements.txt
         playwright install
-
-    - name: checkout repo
-      uses: actions/checkout@v4
 
     - name: Set up Python
       uses: actions/setup-python@v4
