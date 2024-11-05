@@ -20,6 +20,9 @@ jobs:
 
     - name: convert files
       run: |
+        OIFS=${IFS}
+        export IFS=$'\n'
         for dir in $(ls blueprints); do
-          echo ${dir}
+          echo "${dir}"
         done
+        IFS=${OIFS}
