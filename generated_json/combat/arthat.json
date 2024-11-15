@@ -1,0 +1,2281 @@
+{
+   "blueprint" : {
+      "entities" : [
+         {
+            "entity_number" : 1,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 740.5,
+               "y" : -43.5
+            }
+         },
+         {
+            "entity_number" : 2,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 741.5,
+               "y" : -43.5
+            }
+         },
+         {
+            "entity_number" : 3,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 740.5,
+               "y" : -42.5
+            }
+         },
+         {
+            "entity_number" : 4,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 741.5,
+               "y" : -42.5
+            }
+         },
+         {
+            "entity_number" : 5,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 742.5,
+               "y" : -43.5
+            }
+         },
+         {
+            "entity_number" : 6,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 743.5,
+               "y" : -43.5
+            }
+         },
+         {
+            "entity_number" : 7,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 742.5,
+               "y" : -42.5
+            }
+         },
+         {
+            "entity_number" : 8,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 743.5,
+               "y" : -42.5
+            }
+         },
+         {
+            "entity_number" : 9,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 744.5,
+               "y" : -43.5
+            }
+         },
+         {
+            "entity_number" : 10,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 745.5,
+               "y" : -43.5
+            }
+         },
+         {
+            "entity_number" : 11,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 744.5,
+               "y" : -42.5
+            }
+         },
+         {
+            "entity_number" : 12,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 745.5,
+               "y" : -42.5
+            }
+         },
+         {
+            "entity_number" : 13,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 746.5,
+               "y" : -43.5
+            }
+         },
+         {
+            "entity_number" : 14,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 747.5,
+               "y" : -43.5
+            }
+         },
+         {
+            "entity_number" : 15,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 746.5,
+               "y" : -42.5
+            }
+         },
+         {
+            "entity_number" : 16,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 747.5,
+               "y" : -42.5
+            }
+         },
+         {
+            "entity_number" : 17,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 749.5,
+               "y" : -43.5
+            }
+         },
+         {
+            "entity_number" : 18,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 748.5,
+               "y" : -43.5
+            }
+         },
+         {
+            "entity_number" : 19,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 749.5,
+               "y" : -42.5
+            }
+         },
+         {
+            "entity_number" : 20,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 748.5,
+               "y" : -42.5
+            }
+         },
+         {
+            "entity_number" : 21,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 751.5,
+               "y" : -43.5
+            }
+         },
+         {
+            "entity_number" : 22,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 751.5,
+               "y" : -42.5
+            }
+         },
+         {
+            "entity_number" : 23,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 750.5,
+               "y" : -43.5
+            }
+         },
+         {
+            "entity_number" : 24,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 750.5,
+               "y" : -42.5
+            }
+         },
+         {
+            "entity_number" : 25,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 753.5,
+               "y" : -43.5
+            }
+         },
+         {
+            "entity_number" : 26,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 752.5,
+               "y" : -43.5
+            }
+         },
+         {
+            "entity_number" : 27,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 753.5,
+               "y" : -42.5
+            }
+         },
+         {
+            "entity_number" : 28,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 752.5,
+               "y" : -42.5
+            }
+         },
+         {
+            "entity_number" : 29,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 754.5,
+               "y" : -42.5
+            }
+         },
+         {
+            "entity_number" : 30,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 738.5,
+               "y" : -40.5
+            }
+         },
+         {
+            "entity_number" : 31,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 739.5,
+               "y" : -40.5
+            }
+         },
+         {
+            "entity_number" : 32,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 740.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 33,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 741.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 34,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 740.5,
+               "y" : -40.5
+            }
+         },
+         {
+            "entity_number" : 35,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 741.5,
+               "y" : -40.5
+            }
+         },
+         {
+            "entity_number" : 36,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 743.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 37,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 742.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 38,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 742.5,
+               "y" : -40.5
+            }
+         },
+         {
+            "entity_number" : 39,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 745.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 40,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 744.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 41,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 747.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 42,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 746.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 43,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 749.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 44,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 748.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 45,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 751.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 46,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 750.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 47,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 753.5,
+               "y" : -40.5
+            }
+         },
+         {
+            "entity_number" : 48,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 752.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 49,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 752.5,
+               "y" : -40.5
+            }
+         },
+         {
+            "entity_number" : 50,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 753.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 51,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 755.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 52,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 754.5,
+               "y" : -41.5
+            }
+         },
+         {
+            "entity_number" : 53,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 755.5,
+               "y" : -40.5
+            }
+         },
+         {
+            "entity_number" : 54,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 754.5,
+               "y" : -40.5
+            }
+         },
+         {
+            "entity_number" : 55,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 756.5,
+               "y" : -40.5
+            }
+         },
+         {
+            "entity_number" : 56,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 738.5,
+               "y" : -39.5
+            }
+         },
+         {
+            "entity_number" : 57,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 739.5,
+               "y" : -39.5
+            }
+         },
+         {
+            "entity_number" : 58,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 738.5,
+               "y" : -38.5
+            }
+         },
+         {
+            "entity_number" : 59,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 739.5,
+               "y" : -38.5
+            }
+         },
+         {
+            "entity_number" : 60,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 740.5,
+               "y" : -39.5
+            }
+         },
+         {
+            "entity_number" : 61,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 741.5,
+               "y" : -39.5
+            }
+         },
+         {
+            "entity_number" : 62,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 740.5,
+               "y" : -38.5
+            }
+         },
+         {
+            "entity_number" : 63,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 741.5,
+               "y" : -38.5
+            }
+         },
+         {
+            "entity_number" : 64,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 742.5,
+               "y" : -39.5
+            }
+         },
+         {
+            "entity_number" : 65,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 742.5,
+               "y" : -38.5
+            }
+         },
+         {
+            "entity_number" : 66,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 744,
+               "y" : -40
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 67,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 744.5,
+               "y" : -38.5
+            }
+         },
+         {
+            "entity_number" : 68,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 747,
+               "y" : -40
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 69,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 747.5,
+               "y" : -38.5
+            }
+         },
+         {
+            "entity_number" : 70,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 749,
+               "y" : -40
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 71,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 749.5,
+               "y" : -38.5
+            }
+         },
+         {
+            "entity_number" : 72,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 751,
+               "y" : -40
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 73,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 751.5,
+               "y" : -38.5
+            }
+         },
+         {
+            "entity_number" : 74,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 753.5,
+               "y" : -39.5
+            }
+         },
+         {
+            "entity_number" : 75,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 752.5,
+               "y" : -39.5
+            }
+         },
+         {
+            "entity_number" : 76,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 755.5,
+               "y" : -39.5
+            }
+         },
+         {
+            "entity_number" : 77,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 754.5,
+               "y" : -39.5
+            }
+         },
+         {
+            "entity_number" : 78,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 755.5,
+               "y" : -38.5
+            }
+         },
+         {
+            "entity_number" : 79,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 754.5,
+               "y" : -38.5
+            }
+         },
+         {
+            "entity_number" : 80,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 756.5,
+               "y" : -39.5
+            }
+         },
+         {
+            "entity_number" : 81,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 757.5,
+               "y" : -38.5
+            }
+         },
+         {
+            "entity_number" : 82,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 756.5,
+               "y" : -38.5
+            }
+         },
+         {
+            "entity_number" : 83,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 758.5,
+               "y" : -38.5
+            }
+         },
+         {
+            "entity_number" : 84,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 738.5,
+               "y" : -36.5
+            }
+         },
+         {
+            "entity_number" : 85,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 739.5,
+               "y" : -36.5
+            }
+         },
+         {
+            "entity_number" : 86,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 738.5,
+               "y" : -37.5
+            }
+         },
+         {
+            "entity_number" : 87,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 739.5,
+               "y" : -37.5
+            }
+         },
+         {
+            "entity_number" : 88,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 741,
+               "y" : -37
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 89,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 742.5,
+               "y" : -37.5
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 90,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 745.5,
+               "y" : -36.5
+            }
+         },
+         {
+            "entity_number" : 91,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 744,
+               "y" : -37
+            }
+         },
+         {
+            "entity_number" : 92,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 747,
+               "y" : -37
+            }
+         },
+         {
+            "entity_number" : 93,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 749,
+               "y" : -37
+            }
+         },
+         {
+            "entity_number" : 94,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 751,
+               "y" : -37
+            }
+         },
+         {
+            "entity_number" : 95,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 753,
+               "y" : -38
+            }
+         },
+         {
+            "entity_number" : 96,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 755.5,
+               "y" : -36.5
+            }
+         },
+         {
+            "entity_number" : 97,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 754.5,
+               "y" : -36.5
+            }
+         },
+         {
+            "entity_number" : 98,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 755.5,
+               "y" : -37.5
+            }
+         },
+         {
+            "entity_number" : 99,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 754.5,
+               "y" : -37.5
+            }
+         },
+         {
+            "entity_number" : 100,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 757.5,
+               "y" : -36.5
+            }
+         },
+         {
+            "entity_number" : 101,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 756.5,
+               "y" : -36.5
+            }
+         },
+         {
+            "entity_number" : 102,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 757.5,
+               "y" : -37.5
+            }
+         },
+         {
+            "entity_number" : 103,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 756.5,
+               "y" : -37.5
+            }
+         },
+         {
+            "entity_number" : 104,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 758.5,
+               "y" : -37.5
+            }
+         },
+         {
+            "entity_number" : 105,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 758.5,
+               "y" : -36.5
+            }
+         },
+         {
+            "entity_number" : 106,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 738.5,
+               "y" : -35.5
+            }
+         },
+         {
+            "entity_number" : 107,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 738.5,
+               "y" : -34.5
+            }
+         },
+         {
+            "entity_number" : 108,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 739.5,
+               "y" : -35.5
+            }
+         },
+         {
+            "entity_number" : 109,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 739.5,
+               "y" : -34.5
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 110,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 742.5,
+               "y" : -34.5
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 111,
+            "name" : "long-handed-inserter",
+            "position" : {
+               "x" : 746.5,
+               "y" : -35.5
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 112,
+            "name" : "long-handed-inserter",
+            "position" : {
+               "x" : 746.5,
+               "y" : -34.5
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 113,
+            "name" : "long-handed-inserter",
+            "position" : {
+               "x" : 749.5,
+               "y" : -35.5
+            }
+         },
+         {
+            "entity_number" : 114,
+            "name" : "substation",
+            "position" : {
+               "x" : 748,
+               "y" : -35
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 115,
+            "name" : "long-handed-inserter",
+            "position" : {
+               "x" : 750.5,
+               "y" : -34.5
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 116,
+            "name" : "long-handed-inserter",
+            "position" : {
+               "x" : 750.5,
+               "y" : -35.5
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 117,
+            "name" : "long-handed-inserter",
+            "position" : {
+               "x" : 752.5,
+               "y" : -35.5
+            }
+         },
+         {
+            "entity_number" : 118,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 755.5,
+               "y" : -35.5
+            }
+         },
+         {
+            "direction" : 12,
+            "entity_number" : 119,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 754.5,
+               "y" : -34.5
+            }
+         },
+         {
+            "entity_number" : 120,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 754.5,
+               "y" : -35.5
+            }
+         },
+         {
+            "entity_number" : 121,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 757.5,
+               "y" : -35.5
+            }
+         },
+         {
+            "entity_number" : 122,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 757.5,
+               "y" : -34.5
+            }
+         },
+         {
+            "entity_number" : 123,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 756.5,
+               "y" : -35.5
+            }
+         },
+         {
+            "entity_number" : 124,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 758.5,
+               "y" : -35.5
+            }
+         },
+         {
+            "entity_number" : 125,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 758.5,
+               "y" : -34.5
+            }
+         },
+         {
+            "entity_number" : 126,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 738.5,
+               "y" : -33.5
+            }
+         },
+         {
+            "entity_number" : 127,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 738.5,
+               "y" : -32.5
+            }
+         },
+         {
+            "entity_number" : 128,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 739.5,
+               "y" : -33.5
+            }
+         },
+         {
+            "entity_number" : 129,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 739.5,
+               "y" : -32.5
+            }
+         },
+         {
+            "entity_number" : 130,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 741,
+               "y" : -34
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 131,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 742.5,
+               "y" : -32.5
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 132,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 745.5,
+               "y" : -33.5
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 133,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 745.5,
+               "y" : -32.5
+            }
+         },
+         {
+            "entity_number" : 134,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 744,
+               "y" : -34
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 135,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 747.5,
+               "y" : -33.5
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 136,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 746.5,
+               "y" : -33.5
+            }
+         },
+         {
+            "entity_number" : 137,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 746.5,
+               "y" : -32.5
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 138,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 749.5,
+               "y" : -33.5
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 139,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 748.5,
+               "y" : -33.5
+            }
+         },
+         {
+            "direction" : 12,
+            "entity_number" : 140,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 751.5,
+               "y" : -33.5
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 141,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 750.5,
+               "y" : -32.5
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 142,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 750.5,
+               "y" : -33.5
+            }
+         },
+         {
+            "entity_number" : 143,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 753,
+               "y" : -34
+            }
+         },
+         {
+            "direction" : 12,
+            "entity_number" : 144,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 754.5,
+               "y" : -32.5
+            }
+         },
+         {
+            "entity_number" : 145,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 757.5,
+               "y" : -33.5
+            }
+         },
+         {
+            "entity_number" : 146,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 757.5,
+               "y" : -32.5
+            }
+         },
+         {
+            "entity_number" : 147,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 756,
+               "y" : -34
+            }
+         },
+         {
+            "entity_number" : 148,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 758.5,
+               "y" : -33.5
+            }
+         },
+         {
+            "entity_number" : 149,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 758.5,
+               "y" : -32.5
+            }
+         },
+         {
+            "entity_number" : 150,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 738.5,
+               "y" : -31.5
+            }
+         },
+         {
+            "entity_number" : 151,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 738.5,
+               "y" : -30.5
+            }
+         },
+         {
+            "entity_number" : 152,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 739.5,
+               "y" : -31.5
+            }
+         },
+         {
+            "entity_number" : 153,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 739.5,
+               "y" : -30.5
+            }
+         },
+         {
+            "entity_number" : 154,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 741,
+               "y" : -32
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 155,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 742.5,
+               "y" : -30.5
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 156,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 745.5,
+               "y" : -30.5
+            }
+         },
+         {
+            "entity_number" : 157,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 744,
+               "y" : -32
+            }
+         },
+         {
+            "entity_number" : 158,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 746.5,
+               "y" : -31.5
+            }
+         },
+         {
+            "entity_number" : 159,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 746.5,
+               "y" : -30.5
+            }
+         },
+         {
+            "artillery_auto_targeting" : true,
+            "entity_number" : 160,
+            "name" : "artillery-turret",
+            "position" : {
+               "x" : 748.5,
+               "y" : -31.5
+            }
+         },
+         {
+            "direction" : 12,
+            "entity_number" : 161,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 751.5,
+               "y" : -31.5
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 162,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 750.5,
+               "y" : -30.5
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 163,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 750.5,
+               "y" : -31.5
+            }
+         },
+         {
+            "entity_number" : 164,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 753,
+               "y" : -32
+            }
+         },
+         {
+            "direction" : 12,
+            "entity_number" : 165,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 754.5,
+               "y" : -30.5
+            }
+         },
+         {
+            "entity_number" : 166,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 757.5,
+               "y" : -30.5
+            }
+         },
+         {
+            "entity_number" : 167,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 757.5,
+               "y" : -31.5
+            }
+         },
+         {
+            "entity_number" : 168,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 756,
+               "y" : -32
+            }
+         },
+         {
+            "entity_number" : 169,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 758.5,
+               "y" : -30.5
+            }
+         },
+         {
+            "entity_number" : 170,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 758.5,
+               "y" : -31.5
+            }
+         },
+         {
+            "entity_number" : 171,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 737.5,
+               "y" : -28.5
+            }
+         },
+         {
+            "entity_number" : 172,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 736.5,
+               "y" : -28.5
+            }
+         },
+         {
+            "entity_number" : 173,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 738.5,
+               "y" : -29.5
+            }
+         },
+         {
+            "entity_number" : 174,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 738.5,
+               "y" : -28.5
+            }
+         },
+         {
+            "entity_number" : 175,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 739.5,
+               "y" : -28.5
+            }
+         },
+         {
+            "entity_number" : 176,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 739.5,
+               "y" : -29.5
+            }
+         },
+         {
+            "entity_number" : 177,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 741,
+               "y" : -30
+            }
+         },
+         {
+            "direction" : 4,
+            "entity_number" : 178,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 745.5,
+               "y" : -28.5
+            }
+         },
+         {
+            "entity_number" : 179,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 744,
+               "y" : -30
+            }
+         },
+         {
+            "entity_number" : 180,
+            "name" : "bulk-inserter",
+            "position" : {
+               "x" : 747.5,
+               "y" : -28.5
+            }
+         },
+         {
+            "entity_number" : 181,
+            "name" : "steel-chest",
+            "position" : {
+               "x" : 747.5,
+               "y" : -29.5
+            }
+         },
+         {
+            "entity_number" : 182,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 746.5,
+               "y" : -28.5
+            }
+         },
+         {
+            "entity_number" : 183,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 746.5,
+               "y" : -29.5
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 184,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 748.5,
+               "y" : -29.5
+            }
+         },
+         {
+            "entity_number" : 185,
+            "name" : "steel-chest",
+            "position" : {
+               "x" : 748.5,
+               "y" : -28.5
+            }
+         },
+         {
+            "direction" : 12,
+            "entity_number" : 186,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 751.5,
+               "y" : -29.5
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 187,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 750.5,
+               "y" : -28.5
+            }
+         },
+         {
+            "direction" : 8,
+            "entity_number" : 188,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 750.5,
+               "y" : -29.5
+            }
+         },
+         {
+            "entity_number" : 189,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 753,
+               "y" : -30
+            }
+         },
+         {
+            "entity_number" : 190,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 757.5,
+               "y" : -28.5
+            }
+         },
+         {
+            "entity_number" : 191,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 757.5,
+               "y" : -29.5
+            }
+         },
+         {
+            "entity_number" : 192,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 756,
+               "y" : -30
+            }
+         },
+         {
+            "entity_number" : 193,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 759.5,
+               "y" : -28.5
+            }
+         },
+         {
+            "entity_number" : 194,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 758.5,
+               "y" : -28.5
+            }
+         },
+         {
+            "entity_number" : 195,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 758.5,
+               "y" : -29.5
+            }
+         },
+         {
+            "entity_number" : 196,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 760.5,
+               "y" : -28.5
+            }
+         },
+         {
+            "entity_number" : 197,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 737.5,
+               "y" : -27.5
+            }
+         },
+         {
+            "entity_number" : 198,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 736.5,
+               "y" : -27.5
+            }
+         },
+         {
+            "entity_number" : 199,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 736.5,
+               "y" : -26.5
+            }
+         },
+         {
+            "entity_number" : 200,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 739.5,
+               "y" : -27.5
+            }
+         },
+         {
+            "entity_number" : 201,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 738.5,
+               "y" : -27.5
+            }
+         },
+         {
+            "entity_number" : 202,
+            "name" : "substation",
+            "position" : {
+               "x" : 742,
+               "y" : -27
+            }
+         },
+         {
+            "entity_number" : 203,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 744.5,
+               "y" : -26.5
+            }
+         },
+         {
+            "entity_number" : 204,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 744,
+               "y" : -28
+            }
+         },
+         {
+            "entity_number" : 205,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 747.5,
+               "y" : -26.5
+            }
+         },
+         {
+            "entity_number" : 206,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 746.5,
+               "y" : -27.5
+            }
+         },
+         {
+            "direction" : 12,
+            "entity_number" : 207,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 747.5,
+               "y" : -27.5
+            }
+         },
+         {
+            "entity_number" : 208,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 749.5,
+               "y" : -26.5
+            }
+         },
+         {
+            "direction" : 12,
+            "entity_number" : 209,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 748.5,
+               "y" : -27.5
+            }
+         },
+         {
+            "direction" : 12,
+            "entity_number" : 210,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 749.5,
+               "y" : -27.5
+            }
+         },
+         {
+            "entity_number" : 211,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 750.5,
+               "y" : -26.5
+            }
+         },
+         {
+            "direction" : 12,
+            "entity_number" : 212,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 751.5,
+               "y" : -27.5
+            }
+         },
+         {
+            "direction" : 12,
+            "entity_number" : 213,
+            "name" : "express-transport-belt",
+            "position" : {
+               "x" : 750.5,
+               "y" : -27.5
+            }
+         },
+         {
+            "entity_number" : 214,
+            "name" : "fast-inserter",
+            "position" : {
+               "x" : 752.5,
+               "y" : -26.5
+            }
+         },
+         {
+            "entity_number" : 215,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 753,
+               "y" : -28
+            }
+         },
+         {
+            "entity_number" : 216,
+            "name" : "substation",
+            "position" : {
+               "x" : 755,
+               "y" : -27
+            }
+         },
+         {
+            "entity_number" : 217,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 757.5,
+               "y" : -27.5
+            }
+         },
+         {
+            "entity_number" : 218,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 758.5,
+               "y" : -27.5
+            }
+         },
+         {
+            "entity_number" : 219,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 759.5,
+               "y" : -27.5
+            }
+         },
+         {
+            "entity_number" : 220,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 760.5,
+               "y" : -27.5
+            }
+         },
+         {
+            "entity_number" : 221,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 760.5,
+               "y" : -26.5
+            }
+         },
+         {
+            "entity_number" : 222,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 733.5,
+               "y" : -25.5
+            }
+         },
+         {
+            "entity_number" : 223,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 733.5,
+               "y" : -24.5
+            }
+         },
+         {
+            "entity_number" : 224,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 735.5,
+               "y" : -25.5
+            }
+         },
+         {
+            "entity_number" : 225,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 734.5,
+               "y" : -25.5
+            }
+         },
+         {
+            "entity_number" : 226,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 736.5,
+               "y" : -25.5
+            }
+         },
+         {
+            "entity_number" : 227,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 738.5,
+               "y" : -25.5
+            }
+         },
+         {
+            "entity_number" : 228,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 741.5,
+               "y" : -24.5
+            }
+         },
+         {
+            "entity_number" : 229,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 745,
+               "y" : -25
+            }
+         },
+         {
+            "entity_number" : 230,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 747,
+               "y" : -25
+            }
+         },
+         {
+            "entity_number" : 231,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 749,
+               "y" : -25
+            }
+         },
+         {
+            "entity_number" : 232,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 751,
+               "y" : -25
+            }
+         },
+         {
+            "entity_number" : 233,
+            "name" : "gun-turret",
+            "position" : {
+               "x" : 753,
+               "y" : -25
+            }
+         },
+         {
+            "entity_number" : 234,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 755.5,
+               "y" : -24.5
+            }
+         },
+         {
+            "entity_number" : 235,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 758.5,
+               "y" : -25.5
+            }
+         },
+         {
+            "entity_number" : 236,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 760.5,
+               "y" : -25.5
+            }
+         },
+         {
+            "entity_number" : 237,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 761.5,
+               "y" : -25.5
+            }
+         },
+         {
+            "entity_number" : 238,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 763.5,
+               "y" : -25.5
+            }
+         },
+         {
+            "entity_number" : 239,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 762.5,
+               "y" : -25.5
+            }
+         },
+         {
+            "entity_number" : 240,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 763.5,
+               "y" : -24.5
+            }
+         },
+         {
+            "entity_number" : 241,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 730.5,
+               "y" : -23.5
+            }
+         },
+         {
+            "entity_number" : 242,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 730.5,
+               "y" : -22.5
+            }
+         },
+         {
+            "entity_number" : 243,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 731.5,
+               "y" : -23.5
+            }
+         },
+         {
+            "entity_number" : 244,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 733.5,
+               "y" : -23.5
+            }
+         },
+         {
+            "entity_number" : 245,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 732.5,
+               "y" : -23.5
+            }
+         },
+         {
+            "entity_number" : 246,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 735.5,
+               "y" : -23.5
+            }
+         },
+         {
+            "entity_number" : 247,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 738.5,
+               "y" : -22.5
+            }
+         },
+         {
+            "entity_number" : 248,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 745.5,
+               "y" : -22.5
+            }
+         },
+         {
+            "entity_number" : 249,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 748.5,
+               "y" : -22.5
+            }
+         },
+         {
+            "entity_number" : 250,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 751.5,
+               "y" : -22.5
+            }
+         },
+         {
+            "entity_number" : 251,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 758.5,
+               "y" : -22.5
+            }
+         },
+         {
+            "entity_number" : 252,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 761.5,
+               "y" : -23.5
+            }
+         },
+         {
+            "entity_number" : 253,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 763.5,
+               "y" : -23.5
+            }
+         },
+         {
+            "entity_number" : 254,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 764.5,
+               "y" : -23.5
+            }
+         },
+         {
+            "entity_number" : 255,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 765.5,
+               "y" : -23.5
+            }
+         },
+         {
+            "entity_number" : 256,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 766.5,
+               "y" : -23.5
+            }
+         },
+         {
+            "entity_number" : 257,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 766.5,
+               "y" : -22.5
+            }
+         },
+         {
+            "entity_number" : 258,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 730.5,
+               "y" : -21.5
+            }
+         },
+         {
+            "entity_number" : 259,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 730.5,
+               "y" : -20.5
+            }
+         },
+         {
+            "entity_number" : 260,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 732.5,
+               "y" : -21.5
+            }
+         },
+         {
+            "entity_number" : 261,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 735.5,
+               "y" : -20.5
+            }
+         },
+         {
+            "entity_number" : 262,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 741.5,
+               "y" : -21.5
+            }
+         },
+         {
+            "entity_number" : 263,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 755.5,
+               "y" : -21.5
+            }
+         },
+         {
+            "entity_number" : 264,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 761.5,
+               "y" : -20.5
+            }
+         },
+         {
+            "entity_number" : 265,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 764.5,
+               "y" : -21.5
+            }
+         },
+         {
+            "entity_number" : 266,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 766.5,
+               "y" : -20.5
+            }
+         },
+         {
+            "entity_number" : 267,
+            "name" : "stone-wall",
+            "position" : {
+               "x" : 766.5,
+               "y" : -21.5
+            }
+         },
+         {
+            "entity_number" : 268,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 738.5,
+               "y" : -19.5
+            }
+         },
+         {
+            "entity_number" : 269,
+            "name" : "accumulator",
+            "position" : {
+               "x" : 741,
+               "y" : -19
+            }
+         },
+         {
+            "entity_number" : 270,
+            "name" : "accumulator",
+            "position" : {
+               "x" : 743,
+               "y" : -19
+            }
+         },
+         {
+            "entity_number" : 271,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 745.5,
+               "y" : -19.5
+            }
+         },
+         {
+            "entity_number" : 272,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 748.5,
+               "y" : -19.5
+            }
+         },
+         {
+            "entity_number" : 273,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 751.5,
+               "y" : -19.5
+            }
+         },
+         {
+            "entity_number" : 274,
+            "name" : "accumulator",
+            "position" : {
+               "x" : 754,
+               "y" : -19
+            }
+         },
+         {
+            "entity_number" : 275,
+            "name" : "accumulator",
+            "position" : {
+               "x" : 756,
+               "y" : -19
+            }
+         },
+         {
+            "entity_number" : 276,
+            "name" : "solar-panel",
+            "position" : {
+               "x" : 758.5,
+               "y" : -19.5
+            }
+         }
+      ],
+      "icons" : [
+         {
+            "index" : 1,
+            "signal" : {
+               "name" : "solar-panel"
+            }
+         }
+      ],
+      "item" : "blueprint",
+      "label" : "art hat",
+      "version" : 562949954404356,
+      "wires" : [
+         [
+            114,
+            5,
+            202,
+            5
+         ],
+         [
+            202,
+            5,
+            216,
+            5
+         ]
+      ]
+   }
+}
